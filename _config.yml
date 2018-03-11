@@ -6,8 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "contrast"
 locale                   : "en-US"
-title                    : "Gabriel dos Passos Gomes / Site Title"
+title                    : "Gabriel dos Passos Gomes"
 title_separator          : "-"
 name                     : &name "Gabriel dos Passos Gomes"
 description              : &description "personal description"
@@ -84,7 +86,7 @@ author:
   location         : "Tallahassee, FL, USA"
   employer         : "Florida State University"
   googlescholar    : "https://scholar.google.com/citations?user=LACTdhMAAAAJ&hl=en"
-  email            : "ggomes[at]chem.fsu.edu" 
+  email            : "ggomes[at]chem.fsu.edu"
   uri              :
   bitbucket        :
   codepen          :
