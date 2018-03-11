@@ -11,7 +11,7 @@ author_profile: true
 
 <b>Submitted:</b>
 
-[24] Y. A. Yaremenko*, <b>G. P. Gomes</b>*, P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <b>2018</b>
+[24] Y. A. Yaremenko*, <b>G. P. Gomes</b>,* P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <b>2018</b>
 
 <b>In print:</b>
 
