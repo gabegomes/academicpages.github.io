@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Gabe Gomes"
+  name             : "Gabe Gomes"
   avatar           : "profile.png"
   bio              : "Computational (Physical Organic) Chemistry. PhD candidate at The Florida State University."
   location         : "Tallahassee, FL, USA"
