@@ -7,13 +7,13 @@ main:
     url: /talks/    
 
   - title: "Blog"
-    url: /blog/    
+    url: /year-archive/    
     
   - title: "CV"
     url: /cv/
     
-  - title: "Media"
-    url: /media/
+#  - title: "Media"
+#    url: /media/
     
 #  - title: "Guide"
 #    url: /markdown/
