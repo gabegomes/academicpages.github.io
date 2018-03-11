@@ -7,7 +7,7 @@ author_profile: true
 
 <b>Accepted:</b>
 
-<i>(invited chapter)</i>: <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 16: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, <i>May 2018</i> <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
+<i>(invited chapter)</i>: <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, <i>May 2018</i> <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
 
 <b>Submitted:</b>
 
@@ -57,6 +57,7 @@ author_profile: true
 (06) K. Pati, <b>G. P. Gomes</b>, T. Harris, I. V. Alabugin "Fused Catechol Ethers from Gold (I)-Catalyzed Intramolecular Reaction of Propargyl Ethers with Acetals" <i>Org. Lett.</i>, <b>2016</b>, <i>18 (5)</i>, 928, [doi: 10.1021/acs.orglett.5b03522](http://pubs.acs.org/doi/abs/10.1021/acs.orglett.5b03522)
 
 (05) <b>G. P. Gomes</b>, V. A. Vil’, A. Terent’ev and I. Alabugin, "Stereoelectronic source of the anomalous stability of bis- peroxides", <i>Chem. Sci.</i>, <b>2015</b>, <i>6</i>, 6783, [doi: 10.1039/C5SC02402A](http://pubs.rsc.org/en/content/articlelanding/2015/sc/c5sc02402a?iscitedby=True#!divAbstract). This paper was featured on [RSC's Chemistry World](http://www.rsc.org/chemistryworld/2015/10/peroxides-stabilise-drug-molecules) and on [NBO's features website](http://nbo6.chem.wisc.edu/feature.htm).
+gabegomes.github.io/images/pub5.gif
 
 (04) K. Pati, C. Michas, D. Allenger, I. Piskun, P. Spiro Coutros, <b>G. P. Gomes</b>, I. V Alabugin "Synthesis of Functionalized Phenanthrenes via Regioselective Oxidative Radical Cyclization." <i>J. Org. Chem.</i>, <b>2015</b>, <i>80 (23)</i>, 11706, [doi: 10.1021/acs.joc.5b01014](http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b01014)
 
