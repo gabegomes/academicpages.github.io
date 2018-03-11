@@ -11,7 +11,7 @@ author_profile: true
 
 <b>Submitted:</b>
 
-(24) Y. A. Yaremenko*, <b>G. P. Gomes</b>,* P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <b>2018</b>
+(24) Y. A. Yaremenko‡, <b>G. P. Gomes</b>,‡ P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <b>2018</b>
 
 <b>In print:</b>
 
@@ -21,7 +21,7 @@ author_profile: true
 
 <b>Published:</b>
 
-<i>* = both authors contributed equally for this publication</i>
+<i>‡ = both authors contributed equally for this publication</i>
 
 (21) K. N. Sedenkova, E. B. Averina, Y. K. Grishin, J. V. Kolodyazhnaya, V. B. Rybakov, T. S. Kuznetsova, A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin, N. S. Zefirov "Substituent effects on stereoselectivity of dihalocarbene reactions with cyclohexadiene and on the reactivity of bis-dihalocyclopropanes in electrophilic nitrations on route to pyrimidine <i>N</i>-oxides" <i>Org. Biom. Chem.</i>, <b>2017</b>,  <i>15</i>, 9433, [doi: 10.1039/C7OB02463K](http://pubs.rsc.org/en/Content/ArticleLanding/2017/OB/C7OB02463K#!divAbstract)
 
@@ -35,12 +35,12 @@ author_profile: true
 
 (16) P. Poonptana, <b>G. P. Gomes</b>, T. Hurrle, K. Chardon, S. Bräse, K-S. Masters, I. V. Alabugin "Formaldehyde-Extruding Homolytic Aromatic Substitution via C->O Transposition: Evolution of a Contaminating Side-Reaction to ‘Traceless-Linker’ access to Congested Biaryl Bonds"  <i>Chem. Eur. J.</i>, <b>2017</b>, <i>23</i>, 9091, [doi: 10.1002/chem.201700085](http://onlinelibrary.wiley.com/doi/10.1002/chem.201700085/epdf) ([Hot Paper on Chemistry – A European Journal](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/homepage/2111_hotpaper.html))
 
-(15) <b>G. P. Gomes</b>*, C. J. Evoniuk*, M. Ly, I. V. Alabugin "Changing the path of least resistance, or access to <i>endo-dig</i> products via a sequence of three <i>exo-trig</i> transition states: electronic effects in homoallyic ring expansion cascades of alkenyl isonitriles" <i>Org. Biom. Chem.</i>, <b>2017</b>, <i>15</i>, 4135, [doi: 10.1039/C7OB00527J](http://pubs.rsc.org/en/content/articlelanding/2014/OB/C7OB00527J#!divAbstract)
+(15) <b>G. P. Gomes</b>‡, C. J. Evoniuk‡, M. Ly, I. V. Alabugin "Changing the path of least resistance, or access to <i>endo-dig</i> products via a sequence of three <i>exo-trig</i> transition states: electronic effects in homoallyic ring expansion cascades of alkenyl isonitriles" <i>Org. Biom. Chem.</i>, <b>2017</b>, <i>15</i>, 4135, [doi: 10.1039/C7OB00527J](http://pubs.rsc.org/en/content/articlelanding/2014/OB/C7OB00527J#!divAbstract)
 
-(14) C. J. Evoniuk*, <b>G. P. Gomes</b>*, M. Ly, F. D. White, I. V. Alabugin "Coupling radical homoallylic expansions with C-C fragmentations for the synthesis of heteroaromatics: Quinolines from reactions of o-alkenylarylisonitriles with aryl, alkyl and perfluoroalkyl radicals" <i>J. Org. Chem.</i>, <b>2017</b>, <i>82 (8)</i>, 4265, [doi: 10.1021/acs.joc.7b00262](http://pubs.acs.org/doi/abs/10.1021/acs.joc.7b00262?journalCode=joceah#.WOJ74BJ3Ebs.facebook) (featured on <i>Synfacts</i> <b>2017</b>, <i>13 (06)</i>, 253 “Synthesis of Quinolines From o-Alkenylaryl Isonitriles”, [doi: 10.1055/s-0036-1590439](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0036-1590439.pdf) and on 
+(14) C. J. Evoniuk‡, <b>G. P. Gomes</b>‡, M. Ly, F. D. White, I. V. Alabugin "Coupling radical homoallylic expansions with C-C fragmentations for the synthesis of heteroaromatics: Quinolines from reactions of o-alkenylarylisonitriles with aryl, alkyl and perfluoroalkyl radicals" <i>J. Org. Chem.</i>, <b>2017</b>, <i>82 (8)</i>, 4265, [doi: 10.1021/acs.joc.7b00262](http://pubs.acs.org/doi/abs/10.1021/acs.joc.7b00262?journalCode=joceah#.WOJ74BJ3Ebs.facebook) (featured on <i>Synfacts</i> <b>2017</b>, <i>13 (06)</i>, 253 “Synthesis of Quinolines From o-Alkenylaryl Isonitriles”, [doi: 10.1055/s-0036-1590439](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0036-1590439.pdf) and on 
 [organic-chemistry.org](http://www.organic-chemistry.org/abstracts/lit5/831.shtm))
 
-(13) <b>G. P. Gomes</b>*, Y. A. Yaremenko*, P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, A. O. Terent’ev, I. V. Alabugin "Stereoelectronic Control in the Ozone-Free Synthesis of Ozonides " <i>Angew. Chem. Int. Ed.</i>, <b>2017</b>,  <i>56</i>, 4955, [doi: 10.1002/anie.201610699](http://onlinelibrary.wiley.com/doi/10.1002/anie.201610699/abstract)
+(13) <b>G. P. Gomes</b>‡, Y. A. Yaremenko‡, P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, A. O. Terent’ev, I. V. Alabugin "Stereoelectronic Control in the Ozone-Free Synthesis of Ozonides " <i>Angew. Chem. Int. Ed.</i>, <b>2017</b>,  <i>56</i>, 4955, [doi: 10.1002/anie.201610699](http://onlinelibrary.wiley.com/doi/10.1002/anie.201610699/abstract)
 
 (12) <b>G. P. Gomes</b> & I. V. Alabugin "Drawing Catalytic Power from Charge Separation: Stereoelectronic and Zwitterionic Assistance in the Au(I)-Catalyzed Bergman Cyclization" <i>J. Am. Chem. Soc.</i>, <b>2017</b>, <i>139 (9)</i>, 3406, [doi: 10.1021/jacs.6b11054](http://pubs.acs.org/doi/abs/10.1021/jacs.6b11054?journalCode=jacsat&quickLinkVolume=139&quickLinkPage=3406&selectedTab=citation&volume=139)
 
@@ -52,7 +52,7 @@ author_profile: true
 
 (08) T. Harris, <b>G. P. Gomes</b>, R. Clark, I. V. Alabugin, "Domino Fragmentations in Traceless Directing Groups of Radical Cascades: Evidence for the Formation of Alkoxy Radicals via C-O Scission" <i>J. Org. Chem.</i>, <b>2016</b>, <i>81 (14)</i>, 6007, [doi: 10.1021/acs.joc.6b01052](http://pubs.acs.org/doi/pdf/10.1021/acs.joc.6b01052) This paper was featured on [sciencing.net](http://www.sciencing.net/paperDetails?eid=0,35025)
 
-(07) E. Berry*, <b>G. P. Gomes*</b>, A. MacLean, J. R. Martin, P. A. Wiget, "Discovery of a new type of Perlin effect in a conformationally constrained oxocane" <i>J. Org. Chem.</i>, <b>2016</b>, <i>81 (13)</i>, 5740, [doi: 10.1021/acs.joc.6b00819](http://pubs.acs.org/doi/pdf/10.1021/acs.joc.6b00819)
+(07) E. Berry‡, <b>G. P. Gomes‡</b>, A. MacLean, J. R. Martin, P. A. Wiget, "Discovery of a new type of Perlin effect in a conformationally constrained oxocane" <i>J. Org. Chem.</i>, <b>2016</b>, <i>81 (13)</i>, 5740, [doi: 10.1021/acs.joc.6b00819](http://pubs.acs.org/doi/pdf/10.1021/acs.joc.6b00819)
 
 (06) K. Pati, <b>G. P. Gomes</b>, T. Harris, I. V. Alabugin "Fused Catechol Ethers from Gold (I)-Catalyzed Intramolecular Reaction of Propargyl Ethers with Acetals" <i>Org. Lett.</i>, <b>2016</b>, <i>18 (5)</i>, 928, [doi: 10.1021/acs.orglett.5b03522](http://pubs.acs.org/doi/abs/10.1021/acs.orglett.5b03522)
 
