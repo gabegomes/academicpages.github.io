@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 My full CV can be found [<u>here</u>](https://gabegomes.github.io/files/GGomes_CV_Mar_2018__.pdf). 
+https://gabegomes.github.io/files/GGomes_CV_Mar_2018__.pdf
