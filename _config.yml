@@ -250,7 +250,7 @@ sass:
 
 remote_theme: "mmistakes/minimal-mistakes"
 #theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "dark"
+minimal_mistakes_skin    : "minimal"
 
 # Outputting
 permalink: /:categories/:title/
