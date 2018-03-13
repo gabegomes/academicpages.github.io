@@ -8,6 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-About Gabe
+About Me
 ======
 Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, Brazil under the supervision of Prof. Pierre Mothè Esteves, in 2013. His research at that university was focused on theoretical studies of electrophilic aromatic nitration via single electron transfer and a final project on theoretical/experimental development of methane clathrates inhibitors. He also spent a year at the University of Lisbon, Portugal in an academic exchange researching graphene oxides, with Professor Maria José Lourenço. In Fall 2014, he joined the laboratory of Professor Igor V. Alabugin at the Florida State University as a graduate student, where he also was awarded the LASER Fellowship earlier that year and the 2016-2017 IBM Ph.D Scholarship. His main interested is the interplay between structure and reactivity.
+
+Awards and Grants
+======
+▪ Florida State University Fellows Society (inducted, 2017)
+▪ 67th Lindau Nobel Laureate Meeting (Chemistry), invitation as young researcher (2017; featured on:
+             • FSU News; • Brazilian Academy of Sciences; • Süddeutsche Zeitung, a German newspaper)
+▪ Philip Schlenoff Graduate Travel Award (2017): grant used to attend the 67th Lindau Nobel Laureate Meeting
+▪ FSU Student Employee of the Year Award, nomination (2017)
+▪ IBM PhD Scholarship (2016, featured on: • chem.fsu.edu/news; • FSU’s Office of Graduate Fellowships and Awards)
+▪ NSF XSEDE (TG-CHE160006): grant in the form of supercomputer time (2016, renewed for 2017 & 2018)
+▪ Dr. Martin Luther King Jr. Book Stipend (2016)
+▪ FSU’s Congress of Graduate Students (COGS) grant to attend the 253rd American Chemical Society (ACS) National Meeting (2016)
+▪ Latin America-Caribbean (LAC) FSU Scholarship (2015 - present)
+▪ Latin American Student Education and Research (LASER) Program Fellowship @ FSU (2014)
+▪ Science without Borders Program and Scholarship @ UL (2012-2013)
+▪ Gas Exploitation Oral Section winner: 6th Brazilian Meeting of R&D in Oil and Gas, as PRH01-ANP Scholar (2011) 
+▪ Honorable Mention: XXXII Jornada Giulio Massarani de Iniciação Científica, as a CNPq Scholar (2010)
