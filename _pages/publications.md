@@ -9,9 +9,9 @@ author_profile: true
 
 (25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, <i>May 2018</i> <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
 
-(24) Y. A. Yaremenko‡, <b>G. P. Gomes</b>,‡ P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <i>J. Org. Chem.</i>, <b>2018</b>
-
 # <b>In print:</b>
+
+(24) Y. A. Yaremenko‡, <b>G. P. Gomes</b>,‡ P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <i>J. Org. Chem.</i>, <b>2018</b>, _just accepted_, [doi: 10.1021/acs.joc.8b00130](https://pubs.acs.org/doi/10.1021/acs.joc.8b00130)
 
 (23) N. P. Tsvetkov, E. Gonzalez-Rodriguez, A. Hughes, <b>G. P. Gomes</b>, F. D. White, I. V. Alabugin "Radical Alkyne Peri-annulations for Synthesis of Functionalized Phenalenes, Benzanthrenes, and Olympicene" <i>Angew. Chem. Int. Ed.</i>, <b>2018</b>,  <i>just accepted</i> [doi: 10.1002/anie.201712651](http://onlinelibrary.wiley.com/doi/10.1002/anie.201712651/epdf) (featured on [FSU News](http://news.fsu.edu/news/science-technology/2018/02/20/researchers-achieve-olympic-ring-molecule-breakthrough-just-time-winter-games/) and reproduced on: [phys.org](https://phys.org/news/2018-02-olympic-molecule-breakthrough-winter-games.html); [sciencedaily.com](https://www.sciencedaily.com/releases/2018/02/180220143511.htm); [EurekAlert!](https://www.eurekalert.org/pub_releases/2018-02/fsu-ra021918.php))
 
