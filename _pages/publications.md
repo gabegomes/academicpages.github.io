@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications (2014–2018)"
 permalink: /publications/
 author_profile: true
 ---
