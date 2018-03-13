@@ -16,20 +16,19 @@ Awards and Grants
 ======
 ▪ Florida State University Fellows Society (inducted, 2017)
 
-▪ 67th Lindau Nobel Laureate Meeting (Chemistry), invitation as young researcher (2017; featured on:
-             • FSU News; • Brazilian Academy of Sciences; • Süddeutsche Zeitung, a German newspaper)
+▪ 67th Lindau Nobel Laureate Meeting (Chemistry), invitation as young researcher (2017)
              
-▪ Philip Schlenoff Graduate Travel Award (2017): grant used to attend the 67th Lindau Nobel Laureate Meeting
+▪ Philip Schlenoff Graduate Travel Award (2017)
 
 ▪ FSU Student Employee of the Year Award, nomination (2017)
 
-▪ IBM PhD Scholarship (2016, featured on: • chem.fsu.edu/news; • FSU’s Office of Graduate Fellowships and Awards)
+▪ IBM PhD Scholarship (2016)
 
 ▪ NSF XSEDE (TG-CHE160006): grant in the form of supercomputer time (2016, renewed for 2017 & 2018)
 
 ▪ Dr. Martin Luther King Jr. Book Stipend (2016)
 
-▪ FSU’s Congress of Graduate Students (COGS) grant to attend the 253rd American Chemical Society (ACS) National Meeting (2016)
+▪ FSU’s Congress of Graduate Students (COGS) travel award to attend the 253rd ACS National Meeting (2016)
 
 ▪ Latin America-Caribbean (LAC) FSU Scholarship (2015 - present)
 
