@@ -13,7 +13,7 @@ author_profile: true
 
 # <b>In print:</b>
 
-(23) N. P. Tsvetkov, E. Gonzalez-Rodriguez, A. Hughes, <b>G. P. Gomes</b>, F. D. White, I. V. Alabugin "Radical Alkyne Peri-annulations for Synthesis of Functionalized Phenalenes, Benzanthrenes, and Olympicene" <i>Angew. Chem. Int. Ed.</i>, <b>2018</b>,  <i>just accepted</i> [doi: 10.1002/anie.201712651](http://onlinelibrary.wiley.com/doi/10.1002/anie.201712651/epdf) (featured on [FSU News](http://news.fsu.edu/news/science-technology/2018/02/20/researchers-achieve-olympic-ring-molecule-breakthrough-just-time-winter-games/) and reproduced on: [phys.org](https://phys.org/news/2018-02-olympic-molecule-breakthrough-winter-games.html); [sciencedaily.com](https://www.sciencedaily.com/releases/2018/02/180220143511.htm); [EurekAlert!](https://www.eurekalert.org/pub_releases/2018-02/fsu-ra021918.php))
+(23) N. P. Tsvetkov, E. Gonzalez-Rodriguez, A. Hughes, <b>G. P. Gomes</b>, F. D. White, I. V. Alabugin "Radical Alkyne Peri-annulations for Synthesis of Functionalized Phenalenes, Benzanthrenes, and Olympicene" <i>Angew. Chem. Int. Ed.</i>, <b>2018</b>,  <i>just accepted</i> [_doi: 10.1002/anie.201712651_](http://onlinelibrary.wiley.com/doi/10.1002/anie.201712651/epdf) (featured on [FSU News](http://news.fsu.edu/news/science-technology/2018/02/20/researchers-achieve-olympic-ring-molecule-breakthrough-just-time-winter-games/) and reproduced on: [phys.org](https://phys.org/news/2018-02-olympic-molecule-breakthrough-winter-games.html); [sciencedaily.com](https://www.sciencedaily.com/releases/2018/02/180220143511.htm); [EurekAlert!](https://www.eurekalert.org/pub_releases/2018-02/fsu-ra021918.php))
 
 <img src="https://gabegomes.github.io/images/pub23.png" alt="hi" class="center"/>
 
