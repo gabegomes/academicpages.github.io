@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Research
-
-Research Interests:
+# Research Interests
 + Physical Organic Chemistry
 + Structure-Reactivity Relationship 
 + Stereoelectronic Effects
