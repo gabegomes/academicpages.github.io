@@ -82,7 +82,7 @@ author:
   name             : "Gabe Gomes"
   avatar           : "profile.png"
   bio              : "Computational & Physical Organic Chemistry. PhD candidate at The Florida State University."
-  location         : "Tallahassee, FL, USA"
+  location         : "Florida, USA"
   #employer         : "Florida State University"
   googlescholar    : "https://scholar.google.com/citations?user=LACTdhMAAAAJ&hl=en"
   email            : "ggomes[at]chem.fsu.edu"
@@ -104,8 +104,8 @@ author:
   soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  #researchgate     : "Gabriel_Gomes4"
-  #twitter          : "gdospassosgomes"
+  researchgate     : "Gabriel_Gomes4"
+  twitter          : "gdospassosgomes"
   vine             :
   weibo            :
   xing             :
