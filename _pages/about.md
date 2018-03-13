@@ -14,29 +14,16 @@ Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, 
 
 Awards and Grants
 ======
-▪ Florida State University Fellows Society (inducted, 2017)
-
-▪ 67th Lindau Nobel Laureate Meeting (Chemistry), invitation as young researcher (2017)
-             
-▪ Philip Schlenoff Graduate Travel Award (2017)
-
-▪ FSU Student Employee of the Year Award, nomination (2017)
-
-▪ IBM PhD Scholarship (2016)
-
-▪ NSF XSEDE (TG-CHE160006): grant in the form of supercomputer time (2016, renewed for 2017 & 2018)
-
-▪ Dr. Martin Luther King Jr. Book Stipend (2016)
-
-▪ FSU’s Congress of Graduate Students (COGS) travel award to attend the 253rd ACS National Meeting (2016)
-
-▪ Latin America-Caribbean (LAC) FSU Scholarship (2015 - present)
-
-▪ Latin American Student Education and Research (LASER) Program Fellowship @ FSU (2014)
-
-▪ Science without Borders Program and Scholarship @ UL (2012-2013)
-
-▪ Gas Exploitation Oral Section winner: 6th Brazilian Meeting of R&D in Oil and Gas, as PRH01-ANP Scholar (2011)
-
-▪ Honorable Mention: XXXII Jornada Giulio Massarani de Iniciação Científica, as a CNPq Scholar (2010)
-
++ Florida State University Fellows Society (_inducted_, 2017)
++ 67th Lindau Nobel Laureate Meeting (Chemistry), _invitation as young researcher_ (2017)
++ Philip Schlenoff Graduate Travel Award (2017)
++ FSU Student Employee of the Year Award, _nomination_ (2017)
++ IBM PhD Scholarship (2016)
++ NSF XSEDE (TG-CHE160006): grant in the form of supercomputer time (2016, renewed for 2017 & 2018)
++ FSU's Dr. Martin Luther King Jr. Book Stipend (2016)
++ FSU’s Congress of Graduate Students (COGS) travel award to attend the 253rd ACS National Meeting (2016)
++ Latin America-Caribbean (LAC) FSU Scholarship (2015 - present)
++ Latin American Student Education and Research (LASER) Program Fellowship @ FSU (2014)
++ Science without Borders Program and Scholarship @ UL (2012-2013)
++ Gas Exploitation Oral Section winner: 6th Brazilian Meeting of R&D in Oil and Gas, as PRH01-ANP Scholar (2011)
++ Honorable Mention: XXXII Jornada Giulio Massarani de Iniciação Científica, as a CNPq Scholar (2010)
