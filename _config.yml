@@ -247,7 +247,7 @@ sass:
 
 
 remote_theme: "mmistakes/minimal-mistakes"
-# minimal_mistakes_skin    : "contrast"
+minimal_mistakes_skin    : "contrast"
 
 # Outputting
 permalink: /:categories/:title/
