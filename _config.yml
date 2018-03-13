@@ -8,6 +8,7 @@
 # Site Settings
 #theme                    : minimal-mistakes-jekyll
 #minimal_mistakes_skin    : "contrast"
+@import "minimal-mistakes/skins/contrast"; // skin
 locale                   : "en-US"
 title                    : "Gabriel dos Passos Gomes"
 title_separator          : "-"
