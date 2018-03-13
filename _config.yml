@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
- # username               : gdospassosgomes
+ username               : gdospassosgomes
 facebook:
   username               :
   app_id                 :
@@ -72,7 +72,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -105,7 +105,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   #researchgate     : "Gabriel_Gomes4"
-  twitter          : "@gdospassosgomes"
+  twitter          : "gpassosgomes"
   vine             :
   weibo            :
   xing             :
