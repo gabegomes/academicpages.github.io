@@ -249,7 +249,7 @@ sass:
 gem "github-pages", group: :jekyll_plugins
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast"
+minimal_mistakes_skin    : "dark"
 
 # Outputting
 permalink: /:categories/:title/
