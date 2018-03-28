@@ -15,17 +15,17 @@ author_profile: true
 
 ![alt text](https://gabegomes.github.io/images/pub24.png "pub24.png")
 
-(23) N. P. Tsvetkov, E. Gonzalez-Rodriguez, A. Hughes, <b>G. P. Gomes</b>, F. D. White, I. V. Alabugin "Radical Alkyne Peri-annulations for Synthesis of Functionalized Phenalenes, Benzanthrenes, and Olympicene" <i>Angew. Chem. Int. Ed.</i>, <b>2018</b>,  <i>just accepted</i> [doi: 10.1002/anie.201712783](http://onlinelibrary.wiley.com/doi/10.1002/anie.201712783/abstract) (featured on [FSU News](http://news.fsu.edu/news/science-technology/2018/02/20/researchers-achieve-olympic-ring-molecule-breakthrough-just-time-winter-games/) and reproduced on: [phys.org](https://phys.org/news/2018-02-olympic-molecule-breakthrough-winter-games.html); [sciencedaily.com](https://www.sciencedaily.com/releases/2018/02/180220143511.htm); [EurekAlert!](https://www.eurekalert.org/pub_releases/2018-02/fsu-ra021918.php))
-
-<img src="https://gabegomes.github.io/images/pub23.png" alt="hi" class="center"/>
-
-(22) V. A. Vil', <b>G. P. Gomes</b>, O. V. Bityukov, M. A. Syroeshkin, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin. A. O. Terent'ev "Interrupted Baeyer-Villiger Rearrangement: Building A Stereoelectronic Trap for the Criegee Intermediate" <i>Angew. Chem. Int. Ed.</i>, <b>2018</b>,  <i>just accepted</i>, [doi: 10.1002/anie.201712651](http://onlinelibrary.wiley.com/doi/10.1002/anie.201712651/epdf) (featured on [Chemical & Engineering News](https://cen.acs.org/articles/96/i7/Elusive-Criegee-reaction-intermediate-captured.html))
-
-<img src="https://gabegomes.github.io/images/pub22.png" alt="hi" class="center"/>
-
 # <b>Published:</b>
 
 <i>‡ = both authors contributed equally for this publication</i>
+
+(23) N. P. Tsvetkov, E. Gonzalez-Rodriguez, A. Hughes, <b>G. P. Gomes</b>, F. D. White, I. V. Alabugin "Radical Alkyne Peri-annulations for Synthesis of Functionalized Phenalenes, Benzanthrenes, and Olympicene" <i>Angew. Chem. Int. Ed.</i>, <b>2018</b>, <i>57</i>, 3651, [doi: 10.1002/anie.201712783](http://onlinelibrary.wiley.com/doi/10.1002/anie.201712783/abstract) (featured on [FSU News](http://news.fsu.edu/news/science-technology/2018/02/20/researchers-achieve-olympic-ring-molecule-breakthrough-just-time-winter-games/) and reproduced on: [phys.org](https://phys.org/news/2018-02-olympic-molecule-breakthrough-winter-games.html); [sciencedaily.com](https://www.sciencedaily.com/releases/2018/02/180220143511.htm); [EurekAlert!](https://www.eurekalert.org/pub_releases/2018-02/fsu-ra021918.php))
+
+<img src="https://gabegomes.github.io/images/pub23.png" alt="hi" class="center"/>
+
+(22) V. A. Vil', <b>G. P. Gomes</b>, O. V. Bityukov, M. A. Syroeshkin, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin. A. O. Terent'ev "Interrupted Baeyer-Villiger Rearrangement: Building A Stereoelectronic Trap for the Criegee Intermediate" <i>Angew. Chem. Int. Ed.</i>, <b>2018</b>, <i>57</i>, 3372, [doi: 10.1002/anie.201712651](http://onlinelibrary.wiley.com/doi/10.1002/anie.201712651/epdf) (featured on [Chemical & Engineering News](https://cen.acs.org/articles/96/i7/Elusive-Criegee-reaction-intermediate-captured.html))
+
+<img src="https://gabegomes.github.io/images/pub22.png" alt="hi" class="center"/>
 
 (21) K. N. Sedenkova, E. B. Averina, Y. K. Grishin, J. V. Kolodyazhnaya, V. B. Rybakov, T. S. Kuznetsova, A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin, N. S. Zefirov "Substituent effects on stereoselectivity of dihalocarbene reactions with cyclohexadiene and on the reactivity of bis-dihalocyclopropanes in electrophilic nitrations on route to pyrimidine <i>N</i>-oxides" <i>Org. Biom. Chem.</i>, <b>2017</b>,  <i>15</i>, 9433, [doi: 10.1039/C7OB02463K](http://pubs.rsc.org/en/Content/ArticleLanding/2017/OB/C7OB02463K#!divAbstract)
 
