@@ -72,7 +72,7 @@ author_profile: true
 
 <img src="https://gabegomes.github.io/images/pub11.png" alt="hi" class="center"/>
 
-(10) S. Z. Vatsadze, Y. D. Loginova, <b>G. P. Gomes</b>, I. V. Alabugin, "Stereoelectronic Chameleons: The Donor–Acceptor Dichotomy of Functional Groups" <i>Chem. Eur. J.</i>, <b>2016</b>, <i>23</i>, 3225, [doi: 10.1002/chem.201603491](http://onlinelibrary.wiley.com/doi/10.1002/chem.201603491/epdf) (Frontspiece of Chemistry – A European Journal, [doi: 10.1002/chem.201781461](http://onlinelibrary.wiley.com/doi/10.1002/chem.201781461/abstract)
+(10) S. Z. Vatsadze, Y. D. Loginova, <b>G. P. Gomes</b>, I. V. Alabugin, "Stereoelectronic Chameleons: The Donor–Acceptor Dichotomy of Functional Groups" <i>Chem. Eur. J.</i>, <b>2016</b>, <i>23</i>, 3225, [doi: 10.1002/chem.201603491](http://onlinelibrary.wiley.com/doi/10.1002/chem.201603491/epdf) ([Web of Science's top 1% Chemistry highly cited papers for Nov/Dec 2017](http://apps.webofknowledge.com/InboundService.do?product=WOS&Func=Frame&DestFail=http%3A%2F%2Fwww.webofknowledge.com%3FDestParams%3DUT%253DWOS%25253A000395775700001%2526customersID%253DTSMetrics%2526smartRedirect%253Dyes%2526action%253Dretrieve%2526mode%253DFullRecord%2526product%253DCEL%26SrcAuth%3DTSMetrics%26SrcApp%3DTSM_TEST%26DestApp%3DCEL%26e%3D3beeY%252BrYz%252FE7J6LLsmb%252FfodLK0gMxd92XJWKQifo6cGaInGd5DKLNg%253D%253D&SrcApp=TSM_TEST&SrcAuth=TSMetrics&SID=7Ap98kfpZYX2V1RU7Ga&customersID=TSMetrics&smartRedirect=yes&mode=FullRecord&IsProductCode=Yes&Init=Yes&action=retrieve&UT=WOS%3A000395775700001); Frontspiece of Chemistry – A European Journal, [doi: 10.1002/chem.201781461](http://onlinelibrary.wiley.com/doi/10.1002/chem.201781461/abstract)
 
 <img src="https://gabegomes.github.io/images/pub10.png" alt="hi" class="center"/>
 
