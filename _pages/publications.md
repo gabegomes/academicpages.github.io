@@ -9,8 +9,6 @@ author_profile: true
 
 (25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, <i>May 2018</i> <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
 
-# <b>In print:</b>
-
 # <b>Published:</b>
 
 <i>‡ = both authors contributed equally for this publication</i>
