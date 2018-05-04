@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+# <b>Submitted:</b>
+
+(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation"
+
 # <b>Accepted:</b>
 
 (25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, <i>May 2018</i> <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
