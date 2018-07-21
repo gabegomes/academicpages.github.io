@@ -7,15 +7,18 @@ author_profile: true
 
 # <b>Submitted:</b>
 
-(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation"
+(27) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
+benzannulation cascades: synergy between theory and experiments", <b>2018</b>
 
 # <b>Accepted:</b>
 
-(25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, <i>May 2018</i> <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
+(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, <b>2018</b>
 
 # <b>Published:</b>
 
 <i>‡ = both authors contributed equally for this publication</i>
+
+(25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, <i>May 2018</i> <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
 
 (24) Y. A. Yaremenko‡, <b>G. P. Gomes</b>,‡ P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <i>J. Org. Chem.</i>, <b>2018</b>, _83 (8)_, 4402, [doi: 10.1021/acs.joc.8b00130](https://pubs.acs.org/doi/10.1021/acs.joc.8b00130)
 
