@@ -12,10 +12,9 @@ redirect_from:
 + Structure-Reactivity Relationship 
 + Stereoelectronic Effects
 + Cyclizations
-+ Mechanisms of Organic Reactions
-+ Reactive Intermediates
++ Organic Reactions Mechanisms & Reactive Intermediates
 + Machine Learning
-
++ Autonomous Organic Synthesis
 
 **An Overview of My Research Projects (April 2018)**
 
