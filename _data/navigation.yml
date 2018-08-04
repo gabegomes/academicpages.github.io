@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /talks/    
+ # - title: "Presentations"
+  #  url: /talks/    
 
-  - title: "Blog"
-    url: /year-archive/    
+ # - title: "Blog"
+  #  url: /year-archive/    
     
   - title: "CV"
     url: /cv/
