@@ -7,6 +7,8 @@ author_profile: true
 
 # <b>Submitted:</b>
 
+(28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <b>2018</b>
+
 (27) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
 benzannulation cascades: synergy between theory and experiments", <b>2018</b>
 
