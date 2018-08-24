@@ -16,7 +16,7 @@ redirect_from:
 + Machine Learning
 + Autonomous Organic Synthesis
 
-**An Overview of My Research Projects (April 2018)**
+**An Overview of My Research Projects**
 
 ![alt text](https://gabegomes.github.io/images/projects_April_2018.png "projects_April_2018.png")
 
