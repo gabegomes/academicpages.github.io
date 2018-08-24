@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Research Interests**
-+ Physical Organic Chemistry
++ Computational & Physical Organic Chemistry
 + Structure-Reactivity Relationship 
 + Stereoelectronic Effects
 + Cyclizations
