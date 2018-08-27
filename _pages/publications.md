@@ -5,16 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <b>Preprints:</b>
+# <b>Preprints & Submitted:</b>
 
-<b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <b>2018</b>, link: [ChemRxiv_v1](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
+(29) V. A. Vil’, <b>G. P. Gomes</b>, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy- β-peroxylactones”, <b>2018</b>
 
-# <b>Submitted:</b>
+(28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <b>2018</b>, link: [ChemRxiv_v1](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
+
+# <b>Accepted:</b>
 
 (27) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
 benzannulation cascades: synergy between theory and experiments", <b>2018</b>
 
-# <b>Accepted:</b>
+# <b>In Print:</b>
 
 (26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, <b>2018</b>
 
