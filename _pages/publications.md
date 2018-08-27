@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-+ <b>Preprints & Submitted:</b>
+<b>Preprints & Submitted:</b>
 
 (29) V. A. Vil’, <b>G. P. Gomes</b>, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy- β-peroxylactones”, <b>2018</b>
 
