@@ -22,8 +22,6 @@ benzannulation cascades: synergy between theory and experiments", <b>2018</b>
 
 (26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, <b>2018</b>
 
-![alt text](https://gabegomes.github.io/images/pub26.png "pub26.png")
-
 ***Published:***
 
 <i>‡ = both authors contributed equally for this publication</i>
@@ -103,7 +101,7 @@ benzannulation cascades: synergy between theory and experiments", <b>2018</b>
 
 (07) E. Berry‡, <b>G. P. Gomes‡</b>, A. MacLean, J. R. Martin, P. A. Wiget, "Discovery of a new type of Perlin effect in a conformationally constrained oxocane" <i>J. Org. Chem.</i>, <b>2016</b>, <i>81 (13)</i>, 5740, [doi: 10.1021/acs.joc.6b00819](http://pubs.acs.org/doi/pdf/10.1021/acs.joc.6b00819)
 
-<img src="https://gabegomes.github.io/images/pub7.png" alt="hi" class="center"/>
+![alt text](https://gabegomes.github.io/images/pub7.png "pub7.png")
 
 (06) K. Pati, <b>G. P. Gomes</b>, T. Harris, I. V. Alabugin "Fused Catechol Ethers from Gold (I)-Catalyzed Intramolecular Reaction of Propargyl Ethers with Acetals" <i>Org. Lett.</i>, <b>2016</b>, <i>18 (5)</i>, 928, [doi: 10.1021/acs.orglett.5b03522](http://pubs.acs.org/doi/abs/10.1021/acs.orglett.5b03522)
 
