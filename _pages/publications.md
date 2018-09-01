@@ -26,7 +26,7 @@ benzannulation cascades: synergy between theory and experiments", <b>2018</b>
 
 <i>‡ = both authors contributed equally for this publication</i>
 
-(25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, <i>May</i> **2018**, <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
+(25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, pp. 451–502, <i>May</i>, **2018**, doi:10.1142/9781786344090_0015 <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
 
 ![alt text](https://gabegomes.github.io/images/pub25.png "pub25.png")
 
