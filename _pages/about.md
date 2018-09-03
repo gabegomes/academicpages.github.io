@@ -15,7 +15,7 @@ Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, 
 **Awards, Honors and Grants**
 
 + CAS SciFinder Future Leaders ([2018](https://www.cas.org/about/futureleaders))
-+ ACS Graduate Research Symposium @ Indiana University, Bloomington, IN (_invited talk_, [2018](https://www.organicdivision.org/grs/grshistory/))
++ ACS Graduate Research Symposium @ Indiana University, Bloomington, IN (_talk_, [2018](https://www.organicdivision.org/grs/grshistory/))
 + ACS COMP Chemical Computing Group Excellence Award ([2018](http://www.acscomp.org/awards/chemical-computing-group-excellence-award))
 + Machine Learning in Science and Engineering Symposium @ Carnegie Mellon University, Pittsburgh, PA (_travel award_, [2018](https://events.mcs.cmu.edu/mlse/))
 + FSU’s Graduate Student Research and Creativity Award ([2018](https://gradschool.fsu.edu/news-recognitions/previous-award-winners/research-and-creativity-awards))
