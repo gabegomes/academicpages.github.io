@@ -18,13 +18,13 @@ author_profile: true
 (27) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
 benzannulation cascades: synergy between theory and experiments", <b>2018</b>
 
-***In Print:***
-
-(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, <b>2018</b>
-
 ***Published:***
 
 <i>‡ = both authors contributed equally for this publication</i>
+
+(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, <b>2018</b>;e1389, [https://doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389)
+
+![alt text](https://gabegomes.github.io/images/pub26.png "pub26.png")
 
 (25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, pp. 451–502, <i>May</i>, **2018**, doi:10.1142/9781786344090_0015 <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
 
