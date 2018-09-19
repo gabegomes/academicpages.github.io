@@ -13,14 +13,17 @@ author_profile: true
 
 (28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <b>2018</b>, link: [ChemRxiv_v1](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
 
-***Published:***
-
-<i>‡ = both authors contributed equally for this publication</i>
+***In print:***
 
 (27) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
 benzannulation cascades: synergy between theory and experiments", <i>Eur. J. Org. Chem.</i>, <b>2018</b>, [doi.org/10.1002/ejoc.201801052](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201801052)
 
 ![alt text](https://gabegomes.github.io/images/pub27.png "pub27.png")
+
+***Published:***
+
+<i>‡ = both authors contributed equally for this publication</i>
+
 
 (26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, <b>2018</b>;e1389, [doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389)
 
