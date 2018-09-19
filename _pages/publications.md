@@ -18,7 +18,7 @@ author_profile: true
 <i>‡ = both authors contributed equally for this publication</i>
 
 (27) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
-benzannulation cascades: synergy between theory and experiments", <b>2018</b>, [doi.org/10.1002/ejoc.201801052](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201801052)
+benzannulation cascades: synergy between theory and experiments", <i>Eur. J. Org. Chem.</i>, <b>2018</b>, [doi.org/10.1002/ejoc.201801052](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201801052)
 
 ![alt text](https://gabegomes.github.io/images/pub27.png "pub27.png")
 
