@@ -11,9 +11,12 @@ author_profile: true
 
 (29) V. A. Vil’, <b>G. P. Gomes</b>, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy-β-peroxylactones”, <b>2018</b>
 
-(28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <b>2018</b>, link: [ChemRxiv_v1](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
+***Accepted:***
+
+(28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", **2018**,
 
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
+Preprint on _ChemRxiv_: [link to ChemRxiv_v1](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
 
 ***In print:***
 
