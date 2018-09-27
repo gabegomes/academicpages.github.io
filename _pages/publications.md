@@ -17,7 +17,7 @@ author_profile: true
 
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
 
-Preprint on _ChemRxiv_: [link to ChemRxiv_v1](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
+Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
 
 ***In print:***
 
