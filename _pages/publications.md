@@ -7,13 +7,13 @@ author_profile: true
 
 ***Preprints & Submitted:***
 
-(30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Electronic and Steric Control of Radical Peri-cyclizations on Route to Expanded Polyaromatics”, <b>2018</b>
+(30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Electronic and Steric Control of Radical _Peri_-cyclizations on Route to Expanded Polyaromatics”, <b>2018</b>
 
 (29) V. A. Vil’, <b>G. P. Gomes</b>, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy-β-peroxylactones”, <b>2018</b>
 
 ***Accepted:***
 
-(28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", **2018**,
+(28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", **2018**
 
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
 
