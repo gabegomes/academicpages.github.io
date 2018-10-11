@@ -11,11 +11,11 @@ author_profile: true
 
 ***Just Accepted:***
 
-(29) V. A. Vil’, <b>G. P. Gomes</b>, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy-β-peroxylactones”, <i>J. Org. Chem.</i> **2018**,
+(29) V. A. Vil’, <b>G. P. Gomes</b>, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy-β-peroxylactones”, <i>J. Org. Chem.</i>, **2018**,
 
 ![alt text](https://gabegomes.github.io/images/pub29.png "pub29.png")
 
-(28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i> **2018**, [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513)
+(28) <b>G. P. Gomes</b>, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i>, **2018**, [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513)
 
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
 
@@ -32,7 +32,7 @@ benzannulation cascades: synergy between theory and experiments", <i>Eur. J. Org
 
 <i>‡ = both authors contributed equally for this publication</i>
 
-(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, <b>2018</b>;e1389, [doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389)
+(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, **2018**;e1389, [doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389)
 
 ![alt text](https://gabegomes.github.io/images/pub26.png "pub26.png")
 
