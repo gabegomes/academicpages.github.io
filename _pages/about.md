@@ -14,6 +14,7 @@ Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, 
 
 **Awards, Honors and Grants**
 
++ Selected for IUPAC’s Periodic Table of Younger Chemists as “Yttrium” ([2018](https://iupac.org/100/chemist/gabriel-dos-passos-gomes-yt/))
 + CAS SciFinder Future Leaders ([2018](https://www.cas.org/about/futureleaders))
 + ACS Graduate Research Symposium @ Indiana University, Bloomington, IN (_talk_, [2018](https://www.organicdivision.org/grs/grshistory/))
 + ACS COMP Chemical Computing Group Excellence Award ([2018](http://www.acscomp.org/awards/chemical-computing-group-excellence-award))
