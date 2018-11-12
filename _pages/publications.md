@@ -7,7 +7,7 @@ author_profile: true
 
 ***Preprints & Submitted:***
 
-(30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Electronic and Steric Control of Radical _Peri_-cyclizations on Route to Expanded Polyaromatics”, **2018**
+(30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Stereoelectronic Influence of a “Spectator” Propargylic Substituent Can Override Aromaticity Effects in Radical Peri-cyclizations on Route to Expanded Polyaromatics”, **2018**, _under review_
 
 ***In print:***
 
