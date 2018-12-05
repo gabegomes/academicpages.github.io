@@ -71,13 +71,17 @@ social:
 
 
 # Analytics
-analytics:
+# Google Analytics
+google_analytics: UA-124609669-1
+google_analytics: UA-124609669-2
+
+#analytics:
   #provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  #google:
    # tracking_id          : UA-124609669-1
-analytics:
+#analytics:
   #provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  #google:
    # tracking_id          : UA-124609669-2
 
 
