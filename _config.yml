@@ -72,6 +72,8 @@ social:
 
 # Analytics
 # Google Analytics
+plugins:
+  - jekyll-seo-tag
 google_analytics: UA-124609669-1
 google_analytics: UA-124609669-2
 
