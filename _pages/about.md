@@ -22,7 +22,7 @@ In January 2019, Gabe will join University of Toronto as a postdoctoral research
 
 **Awards, Honors and Grants**
 
-+ Featured as a Florida State University Student Star (2018)
++ Featured as a Florida State University Student Star ([2018](https://news.fsu.edu/student-stars/2018/12/05/gabriel-gomes/))
 + Selected for IUPAC’s Periodic Table of Younger Chemists as “Yttrium” ([2018](https://iupac.org/100/chemist/gabriel-dos-passos-gomes-yt/))
 + CAS SciFinder Future Leaders ([2018](https://www.cas.org/about/futureleaders))
 + ACS Graduate Research Symposium @ Indiana University, Bloomington, IN (_talk_, [2018](https://www.organicdivision.org/grs/grshistory/))
