@@ -7,7 +7,7 @@ author_profile: true
 
 ***Preprints & Submitted:***
 
-(31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, **2018**, _submitted_
+(31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, **2018**, _submitted_, Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*]()
 
 (30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Stereoelectronic Influence of a “Spectator” Propargylic Substituent Can Override Aromaticity Effects in Radical Peri-cyclizations on Route to Expanded Polyaromatics”, **2018**, _under review_
 
