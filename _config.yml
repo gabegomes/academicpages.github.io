@@ -91,9 +91,9 @@ google_analytics: UA-124609669-2
 author:
   name             : "Gabe Gomes"
   avatar           : "profile.png"
-  bio              : "Computational & Physical Organic Chemistry."
-  location         : "Florida, USA"
-  #employer         : "Florida State University"
+  bio              : "Postdoctoral Researcher."
+  location         : "Toronto, ON, Canada"
+  employer         : "University of Toronto"
   googlescholar    : "https://scholar.google.com/citations?user=LACTdhMAAAAJ&hl=en"
   email            : "ggomes[at]chem.fsu.edu"
   uri              :
