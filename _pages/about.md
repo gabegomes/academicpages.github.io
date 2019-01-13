@@ -7,17 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p style='text-align: justify;'>
 **Education and Training**
   
-**University of Toronto (UofT)**, Department of Chemistry, Toronto, ON, Canada (2019 – present)
+**University of Toronto** (UofT), Department of Chemistry, Toronto, ON, Canada (2019 – present)
   +	Postdoctoral Research Fellow, Advisor: Professor Alán Aspuru-Guzik    	      				   
 
-**Florida State University (FSU)**, Department of Chemistry and Biochemistry, Tallahassee, FL, USA (2014 – 2018)
+**Florida State University** (FSU), Department of Chemistry and Biochemistry, Tallahassee, FL, USA (2014 – 2018)
 +	PhD in Chemistry, Advisor: Professor Igor V. Alabugin
 
-**Federal University of Rio de Janeiro (UFRJ)**, Institute of Chemistry, Rio de Janeiro, RJ, Brazil
+**Federal University of Rio de Janeiro** (UFRJ), Institute of Chemistry, Rio de Janeiro, RJ, Brazil
 +	BSc in Chemistry, with technological attributions (2008 – 2013)
-  + *Science without Borders scholar*, academic exchange at University of Lisbon (UL), Portugal (2012 – 2013)
+  + *Science without Borders scholar*, academic exchange at **University of Lisbon** (UL), Portugal (2012 – 2013)
+</p>
 
 **About**
 
