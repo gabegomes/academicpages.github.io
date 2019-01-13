@@ -7,19 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Education and Training
+## Education and Training
   
 **University of Toronto** (UofT), Department of Chemistry, Toronto, ON, Canada (2019 – present)
   +	Postdoctoral Research Fellow, Advisor: Professor Alán Aspuru-Guzik    	      				   
 
-**Florida State University** (FSU), Department of Chemistry and Biochemistry, Tallahassee, FL, USA (2014 – 2018)
+**Florida State University** (FSU), Department of Chemistry and Biochemistry, 
+Tallahassee, FL, USA (2014 – 2018)
 +	PhD in Chemistry, Advisor: Professor Igor V. Alabugin
 
 **Federal University of Rio de Janeiro** (UFRJ), Institute of Chemistry, Rio de Janeiro, RJ, Brazil
 +	BSc in Chemistry, with technological attributions (2008 – 2013)
   + *Science without Borders scholar*, academic exchange at **University of Lisbon** (UL), Portugal (2012 – 2013)
 
-### About
+## About
 
 <p style='text-align: justify;'>
 Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, Brazil under the supervision of Professor Pierre Mothè Esteves, in 2013. His research at that university was focused on theoretical studies of electrophilic aromatic nitration via single electron transfer and a final project on the development of methane clathrates inhibitors. He also spent a year at the University of Lisbon, Portugal in an academic exchange researching reduced graphene oxides, with Professor Maria José Lourenço. 
@@ -31,7 +32,7 @@ He earned his Ph.D. in Fall 2018 from Florida State University under the guidanc
 In January 2019, Gabe joined the University of Toronto as a Postdoctoral Research Fellow in the Matter Lab, led by Professor Alán Aspuru-Guzik. His research will rest at the interface between artificial intelligence and organic chemistry, where he aims to develop new platforms for autonomous reaction discovery. His ultimate goal is to establish an independent research program focused on the development of new chemical reactions, pioneering research and training the next-generation of chemists.
 </p>
 
-### Awards, Honors and Grants
+## Awards, Honors and Grants
 
 + Featured as a Florida State University Student Star ([2018](https://news.fsu.edu/student-stars/2018/12/05/gabriel-gomes/))
 + Selected for IUPAC’s Periodic Table of Younger Chemists as “Yttrium” ([2018](https://iupac.org/100/chemist/gabriel-dos-passos-gomes-yt/))
