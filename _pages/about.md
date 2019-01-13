@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style='text-align: justify;'>
+  
 **Education and Training**
   
 **University of Toronto** (UofT), Department of Chemistry, Toronto, ON, Canada (2019 – present)
