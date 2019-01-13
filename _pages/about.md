@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 **Education and Training**
-<p style='text-align: justify;'>
   
 **University of Toronto (UofT)**, Department of Chemistry, Toronto, ON, Canada (2019 – present)
   +	Postdoctoral Research Fellow, Advisor: Professor Alán Aspuru-Guzik    	      				   
@@ -19,8 +18,6 @@ redirect_from:
 **Federal University of Rio de Janeiro (UFRJ)**, Institute of Chemistry, Rio de Janeiro, RJ, Brazil
 +	BSc in Chemistry, with technological attributions (2008 – 2013)
   + *Science without Borders scholar*, academic exchange at University of Lisbon (UL), Portugal (2012 – 2013)
-</p>
-
 
 **About**
 
