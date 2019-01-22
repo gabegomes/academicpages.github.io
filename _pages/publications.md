@@ -11,22 +11,21 @@ author_profile: true
 
 (30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Stereoelectronic Influence of a “Spectator” Propargylic Substituent Can Override Aromaticity Effects in Radical Peri-cyclizations on Route to Expanded Polyaromatics”, **2019**, _submitted_
 
-***In print:***
-
-(29) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
-benzannulation cascades: synergy between theory and experiments", <i>Eur. J. Org. Chem.</i>, <b>2018</b>, [doi.org/10.1002/ejoc.201801052](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201801052)
-
-![alt text](https://gabegomes.github.io/images/pub27.png "pub27.png")
-
 ***Published:***
 
 <i>‡ = both authors contributed equally for this publication</i>
 
-(28) V. A. Vil’, **G. P. Gomes**, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy-β-peroxylactones”, <i>J. Org. Chem.</i>, **2018**, _83 (21)_, 13427 [doi: 10.1021/acs.joc.8b02218](https://pubs.acs.org/doi/10.1021/acs.joc.8b02218)
+(29) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
+benzannulation cascades: synergy between theory and experiments", _Eur. J. Org. Chem._, **2019**, 512, _Special Issue: Catalyst Design_,
+[doi.org/10.1002/ejoc.201801052](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201801052)
+
+![alt text](https://gabegomes.github.io/images/pub27.png "pub27.png")
+
+(28) V. A. Vil’, **G. P. Gomes**, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy-β-peroxylactones”, <i>J. Org. Chem.</i>, **2018**, _83 (21)_, 13427, [doi: 10.1021/acs.joc.8b02218](https://pubs.acs.org/doi/10.1021/acs.joc.8b02218)
 
 ![alt text](https://gabegomes.github.io/images/pub29.png "pub29.png")
 
-(27) **G. P. Gomes**, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i>, **2018**, _140 (43)_, 14272 [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513)
+(27) **G. P. Gomes**, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i>, **2018**, _140 (43)_, 14272, [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513)
 
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
 
