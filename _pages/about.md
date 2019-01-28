@@ -23,7 +23,7 @@ Tallahassee, FL, USA (2014 – 2018)
 ## About
 
 <p style='text-align: justify;'>
-Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, Brazil under the supervision of Professor [Pierre Mothè Esteves](https://www.researchgate.net/profile/Pierre_Esteves), in 2013. His research at that university was focused on theoretical studies of electrophilic aromatic nitration via single electron transfer and a final project on the development of methane clathrates inhibitors. He also spent a year at the University of Lisbon, Portugal in an academic exchange researching reduced graphene oxides, with Professor Maria José Lourenço. 
+Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, Brazil under the supervision of Professor Pierre Mothè Esteves, in 2013. His research at that university was focused on theoretical studies of electrophilic aromatic nitration via single electron transfer and a final project on the development of methane clathrates inhibitors. He also spent a year at the University of Lisbon, Portugal in an academic exchange researching reduced graphene oxides, with Professor Maria José Lourenço. 
 
 
 He earned his Ph.D. in Fall 2018 from Florida State University under the guidance of Professor Igor V. Alabugin , where he also was awarded the LASER Fellowship in  2014, and the 2016-2017 IBM Ph.D Scholarship. In 2018, Gabe has been: awarded the FSU's Graduate Student Research and Creativity Award for his work in Computational Chemistry; awarded the ACS COMP Chemical Computing Group Excellence Award for his work on the mechanism of the Gold-Catalyzed Bergman Cyclization; selected for the CAS SciFinder Future Leaders Program; selected for the ACS ORGN Graduate Research Symposium. 
