@@ -17,7 +17,7 @@ author_profile: true
 
 ***Published:***
 
-<i>‡ = both authors contributed equally for this publication</i>
+<i><sup>‡</sup> = both authors contributed equally for this publication</i>
 
 (29) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
 benzannulation cascades: synergy between theory and experiments", _Eur. J. Org. Chem._, **2019**, 512, _Special Issue: Catalyst Design_,
@@ -43,7 +43,7 @@ Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Is
 
 ![alt text](https://gabegomes.github.io/images/pub25.png "pub25.png")
 
-(24) Y. A. Yaremenko‡, <b>G. P. Gomes</b>,‡ P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <i>J. Org. Chem.</i>, <b>2018</b>, _83 (8)_, 4402, [doi: 10.1021/acs.joc.8b00130](https://pubs.acs.org/doi/10.1021/acs.joc.8b00130)
+(24) Y. A. Yaremenko<sup>‡</sup>, <b>G. P. Gomes</b><sup>‡</sup>, P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <i>J. Org. Chem.</i>, <b>2018</b>, _83 (8)_, 4402, [doi: 10.1021/acs.joc.8b00130](https://pubs.acs.org/doi/10.1021/acs.joc.8b00130)
 
 ![alt text](https://gabegomes.github.io/images/pub24.png "pub24.png")
 
@@ -79,16 +79,16 @@ Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Is
 
 <img src="https://gabegomes.github.io/images/pub16.png" alt="hi" class="center"/>
 
-(15) <b>G. P. Gomes</b>‡, C. J. Evoniuk‡, M. Ly, I. V. Alabugin "Changing the path of least resistance, or access to <i>endo-dig</i> products via a sequence of three <i>exo-trig</i> transition states: electronic effects in homoallyic ring expansion cascades of alkenyl isonitriles" <i>Org. Biom. Chem.</i>, <b>2017</b>, <i>15</i>, 4135, [doi: 10.1039/C7OB00527J](http://pubs.rsc.org/en/content/articlelanding/2014/OB/C7OB00527J#!divAbstract)
+(15) <b>G. P. Gomes</b><sup>‡</sup>, C. J. Evoniuk<sup>‡</sup>, M. Ly, I. V. Alabugin "Changing the path of least resistance, or access to <i>endo-dig</i> products via a sequence of three <i>exo-trig</i> transition states: electronic effects in homoallyic ring expansion cascades of alkenyl isonitriles" <i>Org. Biom. Chem.</i>, <b>2017</b>, <i>15</i>, 4135, [doi: 10.1039/C7OB00527J](http://pubs.rsc.org/en/content/articlelanding/2014/OB/C7OB00527J#!divAbstract)
 
 <img src="https://gabegomes.github.io/images/pub15.png" alt="hi" class="center"/>
 
-(14) C. J. Evoniuk‡, <b>G. P. Gomes</b>‡, M. Ly, F. D. White, I. V. Alabugin "Coupling radical homoallylic expansions with C-C fragmentations for the synthesis of heteroaromatics: Quinolines from reactions of o-alkenylarylisonitriles with aryl, alkyl and perfluoroalkyl radicals" <i>J. Org. Chem.</i>, <b>2017</b>, <i>82 (8)</i>, 4265, [doi: 10.1021/acs.joc.7b00262](http://pubs.acs.org/doi/abs/10.1021/acs.joc.7b00262?journalCode=joceah#.WOJ74BJ3Ebs.facebook) (featured on <i>Synfacts</i> <b>2017</b>, <i>13 (06)</i>, 253 “Synthesis of Quinolines From o-Alkenylaryl Isonitriles”, [doi: 10.1055/s-0036-1590439](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0036-1590439.pdf) and on 
+(14) C. J. Evoniuk<sup>‡</sup>, <b>G. P. Gomes</b><sup>‡</sup>, M. Ly, F. D. White, I. V. Alabugin "Coupling radical homoallylic expansions with C-C fragmentations for the synthesis of heteroaromatics: Quinolines from reactions of o-alkenylarylisonitriles with aryl, alkyl and perfluoroalkyl radicals" <i>J. Org. Chem.</i>, <b>2017</b>, <i>82 (8)</i>, 4265, [doi: 10.1021/acs.joc.7b00262](http://pubs.acs.org/doi/abs/10.1021/acs.joc.7b00262?journalCode=joceah#.WOJ74BJ3Ebs.facebook) (featured on <i>Synfacts</i> <b>2017</b>, <i>13 (06)</i>, 253 “Synthesis of Quinolines From o-Alkenylaryl Isonitriles”, [doi: 10.1055/s-0036-1590439](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0036-1590439.pdf) and on 
 [organic-chemistry.org](http://www.organic-chemistry.org/abstracts/lit5/831.shtm))
 
 <img src="https://gabegomes.github.io/images/pub14.png" alt="hi" class="center"/>
 
-(13) <b>G. P. Gomes</b>‡, Y. A. Yaremenko‡, P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, A. O. Terent’ev, I. V. Alabugin "Stereoelectronic Control in the Ozone-Free Synthesis of Ozonides " <i>Angew. Chem. Int. Ed.</i>, <b>2017</b>,  <i>56</i>, 4955, [doi: 10.1002/anie.201610699](http://onlinelibrary.wiley.com/doi/10.1002/anie.201610699/abstract)
+(13) <b>G. P. Gomes</b><sup>‡</sup>, Y. A. Yaremenko<sup>‡</sup>, P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, A. O. Terent’ev, I. V. Alabugin "Stereoelectronic Control in the Ozone-Free Synthesis of Ozonides " <i>Angew. Chem. Int. Ed.</i>, <b>2017</b>,  <i>56</i>, 4955, [doi: 10.1002/anie.201610699](http://onlinelibrary.wiley.com/doi/10.1002/anie.201610699/abstract)
 
 <img src="https://gabegomes.github.io/images/pub13.png" alt="hi" class="center"/>
 
@@ -114,7 +114,7 @@ Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Is
 <img src="https://gabegomes.github.io/images/pub8.png" alt="hi" class="center"/>
 ![alt text](https://gabegomes.github.io/images/pub8b.png "pub8b.png")
 
-(07) E. Berry‡, <b>G. P. Gomes‡</b>, A. MacLean, J. R. Martin, P. A. Wiget, "Discovery of a new type of Perlin effect in a conformationally constrained oxocane" <i>J. Org. Chem.</i>, <b>2016</b>, <i>81 (13)</i>, 5740, [doi: 10.1021/acs.joc.6b00819](http://pubs.acs.org/doi/pdf/10.1021/acs.joc.6b00819)
+(07) E. Berry<sup>‡</sup>, <b>G. P. Gomes</b><sup>‡</sup>, A. MacLean, J. R. Martin, P. A. Wiget, "Discovery of a new type of Perlin effect in a conformationally constrained oxocane" <i>J. Org. Chem.</i>, <b>2016</b>, <i>81 (13)</i>, 5740, [doi: 10.1021/acs.joc.6b00819](http://pubs.acs.org/doi/pdf/10.1021/acs.joc.6b00819)
 
 ![alt text](https://gabegomes.github.io/images/pub7.png "pub7.png")
 
