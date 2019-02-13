@@ -7,7 +7,7 @@ author_profile: true
 
 ***Preprints & Submitted:***
 
-(31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, **2019**, _submitted_, Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*]()
+(31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, **2019**, _submitted_, Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
 
 ***Just Accepted:***
 
@@ -18,6 +18,8 @@ author_profile: true
 ***Published:***
 
 <i><sup>‡</sup> = both authors contributed equally for this publication</i>
+
+(PhD dissertation) <b>G. P. Gomes</b> *"Controlling chemical reactivity with stereoelectronic effects."* Ann Arbor: The Florida State University; **2018**. 326 p. [*link*](https://search.proquest.com/docview/2174054163) 
 
 (29) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
 benzannulation cascades: synergy between theory and experiments", _Eur. J. Org. Chem._, **2019**, 512, _Special Issue: Catalyst Design_,
