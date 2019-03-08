@@ -9,15 +9,13 @@ author_profile: true
 
 (31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, **2019**, _submitted_, Preprint on _ChemRxiv_:[*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
 
-***Just Accepted:***
-
-(30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Stereoelectronic Influence of a “Spectator” Propargylic Substituent Can Override Aromaticity Effects in Radical Peri-cyclizations on Route to Expanded Polyaromatics”, _J. Org. Chem._, **2019**, [doi: 10.1021/acs.joc.8b02779](https://pubs.acs.org/doi/10.1021/acs.joc.8b02779)
-
-![alt text](https://gabegomes.github.io/images/pub30.png "pub30.png")
-
 ***Published:***
 
 <i><sup>‡</sup> = both authors contributed equally for this publication</i>
+
+(30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Stereoelectronic Influence of a “Spectator” Propargylic Substituent Can Override Aromaticity Effects in Radical Peri-cyclizations on Route to Expanded Polyaromatics”, _J. Org. Chem._, **2019**, _84 (4)_, 1853, [doi: 10.1021/acs.joc.8b02779](https://pubs.acs.org/doi/10.1021/acs.joc.8b02779)
+
+![alt text](https://gabegomes.github.io/images/pub30.png "pub30.png")
 
 (PhD dissertation) <b>G. P. Gomes</b> *"Controlling chemical reactivity with stereoelectronic effects."* Ann Arbor: The Florida State University; **2018**. 326 p. [*link*](https://search.proquest.com/docview/2174054163) 
 
