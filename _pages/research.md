@@ -13,11 +13,12 @@ redirect_from:
 
 **Research interests**
 + Computational & Physical Organic Chemistry
++ Machine Learning & Inverse Design
++ Catalysis
 + Stereoelectronic Effects & Structure-Reactivity Relationships
 + Reactive Intermediates & Organic Reactions Mechanisms 
 + Cyclizations & Cascade Reactions
-+ _Machine Learning_ 
-+ _Autonomous Organic Synthesis_
++ Autonomous Organic Synthesis
 
 **Abstract for 'Taming Oxygen-Rich Systems with Stereoelectronic Effects' talk**
 **[<u>link</u>](https://gabegomes.github.io/files/Abstract_talk_UFRJ_Gabe_Gomes_July_2018.pdf)** 
