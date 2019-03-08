@@ -14,9 +14,9 @@ redirect_from:
 **Research interests**
 + Computational & Physical Organic Chemistry
 + Machine Learning & Inverse Design
-+ Catalysis
++ Catalysis & Catalyst Design
 + Stereoelectronic Effects & Structure-Reactivity Relationships
-+ Reactive Intermediates & Organic Reactions Mechanisms 
++ Reactive Intermediates & Reaction Mechanisms 
 + Cyclizations & Cascade Reactions
 + Autonomous Organic Synthesis
 
