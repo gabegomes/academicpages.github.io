@@ -7,7 +7,7 @@ author_profile: true
 
 ***Preprints & Submitted:***
 
-(31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, **2019**, _submitted_, Preprint on _ChemRxiv_:[*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
+(31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, **2019**, _submitted_, Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
 
 ***Published:***
 
@@ -29,7 +29,7 @@ benzannulation cascades: synergy between theory and experiments", _Eur. J. Org. 
 
 ![alt text](https://gabegomes.github.io/images/pub29.png "pub29.png")
 
-(27) **G. P. Gomes**, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i>, **2018**, _140 (43)_, 14272, [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513)
+(27) **G. P. Gomes**, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i>, **2018**, _140 (43)_, 14272, [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513) (Highlighted on: • _[ACS Axial](https://axial.acs.org/2019/03/08/discover-jacs-research-that-got-its-start-on-chemrxiv/?hootPostID=e05569fde1ab505b6be9f9d146c85a7f)_; • _[Colorblind Chemist](https://colorblindchemist.wordpress.com/2018/12/22/my-personal-top-10-preprints-of-2018/)_)
 
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
 
