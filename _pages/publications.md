@@ -5,13 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-***Preprints & Submitted:***
+***Preprints & Submitted***
 
 (32) R. Lee, E. Cagle, B. Bashrum, E. Walters, J. Massey, M. Zanghi, C. Birchfield, D. French, J. Joy, **G. P. Gomes**, P. A. Wiget “Electronic donation or steric contraction: a spectroscopic and structural analysis of medium-sized constrained rings for potential long-range hyperconjugation”, **2019**, _submitted_,
 
-(31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, **2019**, _accepted_, Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
+***Just Accepted***
 
-***Published:***
+(31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, _J. Org. Chem._, **2019**, Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
+
+![alt text](https://gabegomes.github.io/images/pub31.png "pub31.png")
+
+***Published***
 
 <i><sup>‡</sup> = both authors contributed equally for this publication</i>
 
