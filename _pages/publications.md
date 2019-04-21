@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 ***Preprints & Submitted***
+___
 
 (32) R. Lee, E. Cagle, B. Bashrum, E. Walters, J. Massey, M. Zanghi, C. Birchfield, D. French, J. Joy, **G. P. Gomes**, P. A. Wiget “Electronic donation or steric contraction: a spectroscopic and structural analysis of medium-sized constrained rings for potential long-range hyperconjugation”, **2019**, _submitted_
 
 ***Just Accepted***
+___
 
 (31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, _J. Org. Chem._, **2019**, [doi: 10.1021/acs.joc.9b00503](https://pubs.acs.org/doi/10.1021/acs.joc.9b00503)
 Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
@@ -17,43 +19,44 @@ Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO
 ![alt text](https://gabegomes.github.io/images/pub31.png "pub31.png")
 
 ***Published***
+___
 
 <i><sup>‡</sup> = both authors contributed equally for this publication</i>
 
 (30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Stereoelectronic Influence of a “Spectator” Propargylic Substituent Can Override Aromaticity Effects in Radical Peri-cyclizations on Route to Expanded Polyaromatics”, _J. Org. Chem._, **2019**, _84 (4)_, 1853, [doi: 10.1021/acs.joc.8b02779](https://pubs.acs.org/doi/10.1021/acs.joc.8b02779)
 
 ![alt text](https://gabegomes.github.io/images/pub30.png "pub30.png")
-
+#
 (PhD dissertation) <b>G. P. Gomes</b> *"Controlling chemical reactivity with stereoelectronic effects."* Ann Arbor: The Florida State University; **2018**. 326 p. [*link*](https://search.proquest.com/docview/2174054163) 
-
+#
 (29) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
 benzannulation cascades: synergy between theory and experiments", _Eur. J. Org. Chem._, **2019**, 512, _Special Issue: Catalyst Design_,
 [doi.org/10.1002/ejoc.201801052](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201801052)
 
 ![alt text](https://gabegomes.github.io/images/pub27.png "pub27.png")
-
+#
 (28) V. A. Vil’, **G. P. Gomes**, M. V. Ekimova, K. A. Lyssenko, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev “Five roads that converge at the cyclic peroxy-Criegee intermediates: BF3 catalyzed synthesis of β-hydroperoxy-β-peroxylactones”, <i>J. Org. Chem.</i>, **2018**, _83 (21)_, 13427, [doi: 10.1021/acs.joc.8b02218](https://pubs.acs.org/doi/10.1021/acs.joc.8b02218)
 
 ![alt text](https://gabegomes.github.io/images/pub29.png "pub29.png")
-
+#
 (27) **G. P. Gomes**, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i>, **2018**, _140 (43)_, 14272, [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513) (Highlighted on: • _[ACS Axial](https://axial.acs.org/2019/03/08/discover-jacs-research-that-got-its-start-on-chemrxiv/?hootPostID=e05569fde1ab505b6be9f9d146c85a7f)_; • _[Colorblind Chemist](https://colorblindchemist.wordpress.com/2018/12/22/my-personal-top-10-preprints-of-2018/)_)
+Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
 
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
-
-Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
+#
 
 (26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, **2018**;e1389, [doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389)
 
 ![alt text](https://gabegomes.github.io/images/pub26.png "pub26.png")
-
+#
 (25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, pp. 451–502, <i>May</i>, **2018**, doi:10.1142/9781786344090_0015 <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
 
 ![alt text](https://gabegomes.github.io/images/pub25.png "pub25.png")
-
+#
 (24) Y. A. Yaremenko<sup>‡</sup>, <b>G. P. Gomes</b><sup>‡</sup>, P. S. Radulov, R. A. Novikov, V. V. Chernyshev, A. A. Korlyukov, G. I. Nikishin, I. V. Alabugin, A. O. Terent’ev "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1,5-diketones and hydrogen peroxide”, <i>J. Org. Chem.</i>, <b>2018</b>, _83 (8)_, 4402, [doi: 10.1021/acs.joc.8b00130](https://pubs.acs.org/doi/10.1021/acs.joc.8b00130)
 
 ![alt text](https://gabegomes.github.io/images/pub24.png "pub24.png")
-
+#
 (23) N. P. Tsvetkov, E. Gonzalez-Rodriguez, A. Hughes, <b>G. P. Gomes</b>, F. D. White, I. V. Alabugin "Radical Alkyne Peri-annulations for Synthesis of Functionalized Phenalenes, Benzanthrenes, and Olympicene" <i>Angew. Chem. Int. Ed.</i>, <b>2018</b>, <i>57</i>, 3651, [doi: 10.1002/anie.201712783](http://onlinelibrary.wiley.com/doi/10.1002/anie.201712783/abstract) (featured on [FSU News](http://news.fsu.edu/news/science-technology/2018/02/20/researchers-achieve-olympic-ring-molecule-breakthrough-just-time-winter-games/) and reproduced on: [phys.org](https://phys.org/news/2018-02-olympic-molecule-breakthrough-winter-games.html); [sciencedaily.com](https://www.sciencedaily.com/releases/2018/02/180220143511.htm); [EurekAlert!](https://www.eurekalert.org/pub_releases/2018-02/fsu-ra021918.php))
 
 <img src="https://gabegomes.github.io/images/pub23.png" alt="hi" class="center"/>
