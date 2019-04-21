@@ -119,35 +119,33 @@ Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Is
 #
 (08) T. Harris, <b>G. P. Gomes</b>, R. Clark, I. V. Alabugin, "Domino Fragmentations in Traceless Directing Groups of Radical Cascades: Evidence for the Formation of Alkoxy Radicals via C-O Scission" <i>J. Org. Chem.</i>, <b>2016</b>, <i>81 (14)</i>, 6007, [doi: 10.1021/acs.joc.6b01052](http://pubs.acs.org/doi/pdf/10.1021/acs.joc.6b01052) This paper was featured on [sciencing.net](http://www.sciencing.net/paperDetails?eid=0,35025)
 
-<img src="https://gabegomes.github.io/images/pub8.png" alt="hi" class="center"/>
 ![alt text](https://gabegomes.github.io/images/pub8b.png "pub8b.png")
-
+#
 (07) E. Berry<sup>‡</sup>, <b>G. P. Gomes</b><sup>‡</sup>, A. MacLean, J. R. Martin, P. A. Wiget, "Discovery of a new type of Perlin effect in a conformationally constrained oxocane" <i>J. Org. Chem.</i>, <b>2016</b>, <i>81 (13)</i>, 5740, [doi: 10.1021/acs.joc.6b00819](http://pubs.acs.org/doi/pdf/10.1021/acs.joc.6b00819)
 
 ![alt text](https://gabegomes.github.io/images/pub7.png "pub7.png")
-
+#
 (06) K. Pati, <b>G. P. Gomes</b>, T. Harris, I. V. Alabugin "Fused Catechol Ethers from Gold (I)-Catalyzed Intramolecular Reaction of Propargyl Ethers with Acetals" <i>Org. Lett.</i>, <b>2016</b>, <i>18 (5)</i>, 928, [doi: 10.1021/acs.orglett.5b03522](http://pubs.acs.org/doi/abs/10.1021/acs.orglett.5b03522)
 
-<img src="https://gabegomes.github.io/images/pub6.png" alt="hi" class="center"/>
 ![alt text](https://gabegomes.github.io/images/pub6b.png "pub6b.png")
-
+#
 (05) <b>G. P. Gomes</b>, V. A. Vil’, A. Terent’ev and I. Alabugin, "Stereoelectronic source of the anomalous stability of bis- peroxides", <i>Chem. Sci.</i>, <b>2015</b>, <i>6</i>, 6783, [doi: 10.1039/C5SC02402A](http://pubs.rsc.org/en/content/articlelanding/2015/sc/c5sc02402a?iscitedby=True#!divAbstract). This paper was featured on [RSC's Chemistry World](http://www.rsc.org/chemistryworld/2015/10/peroxides-stabilise-drug-molecules) and on [NBO's features website](http://nbo6.chem.wisc.edu/feature.htm).
 
-<img src="https://gabegomes.github.io/images/pub5.png" alt="hi" class="center"/>
-
+![alt text](https://gabegomes.github.io/images/pub5.png "pub5.png")
+#
 (04) K. Pati, C. Michas, D. Allenger, I. Piskun, P. Spiro Coutros, <b>G. P. Gomes</b>, I. V Alabugin "Synthesis of Functionalized Phenanthrenes via Regioselective Oxidative Radical Cyclization." <i>J. Org. Chem.</i>, <b>2015</b>, <i>80 (23)</i>, 11706, [doi: 10.1021/acs.joc.5b01014](http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b01014)
 
-<img src="https://gabegomes.github.io/images/pub4.png" alt="hi" class="center"/>
 ![alt text](https://gabegomes.github.io/images/pub4b.png "pub4b.png")
-
+#
 (03) E. Stoyanov and <b>G. P. Gomes</b> "Tert-Butyl Carbocation in Condensed Phases: Stabilization via Hyperconjugation, Polarization and Hydrogen Bonding.” <i>J. Phys. Chem. A</i>, <b>2015</b>, <i>119</i>, 8619, [doi: 10.1021/acs.jpca.5b04657](http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b04657)
 
-<img src="https://gabegomes.github.io/images/pub3.png" alt="hi" class="center"/>
-
+![alt text](https://gabegomes.github.io/images/pub3.png "pub3.png")
+#
 (02) K. Pati, <b>G. P. Gomes</b>, T. Harris, A. Hughes, H. Phan, T. Banerjee, K. Hanson, Igor V. Alabugin "Traceless Directing Groups in Radical Cascades: From Oligoalkynes to Fused Helicenes without Tethered Initiators" <i>J. Am. Chem. Soc.</i>, <b>2014</b>, <i>137</i>, 1165; [doi: 10.1021/ja510563d](http://pubs.acs.org/doi/abs/10.1021/ja510563d)
 
-<img src="https://gabegomes.github.io/images/pub2.png" alt="hi" class="center"/>
-
+![alt text](https://gabegomes.github.io/images/pub2.png "pub2.png")
+#
 (01) Alabugin, I. V., Bresch S., <b>Gomes, G. P.</b>, "Orbital Hybridization: a Key Electronic Factor in Control of Structure and Reactivity", <i>J. Phys. Org. Chem.</i>, <b>2014</b>, <i>28</i>, 147, [doi: 10.1002/poc.3382](http://onlinelibrary.wiley.com/doi/10.1002/poc.3382/abstract). This paper was featured on [amphoteros.com](https://amphoteros.com/2016/06/29/the-good-old-hybridization/)
 
-<img src="https://gabegomes.github.io/images/pub1.png" alt="hi" class="center"/>
+![alt text](https://gabegomes.github.io/images/pub1.png "pub1.png")
+#
