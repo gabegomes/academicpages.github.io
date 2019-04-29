@@ -10,7 +10,7 @@ ___
 (32) R. Lee, E. Cagle, B. Bashrum, E. Walters, J. Massey, M. Zanghi, C. Birchfield, D. French, J. Joy, **G. P. Gomes**, P. A. Wiget “Electronic donation or steric contraction: a spectroscopic and structural analysis of medium-sized constrained rings for potential long-range hyperconjugation”, **2019**, _submitted_
 
 ___
-***Just Accepted***
+***In Print***
 
 (31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, _J. Org. Chem._, **2019**, [doi: 10.1021/acs.joc.9b00503](https://pubs.acs.org/doi/10.1021/acs.joc.9b00503)
 Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
