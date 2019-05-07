@@ -238,6 +238,7 @@ ___
 ___
 
 **_PhD dissertation_** 
+
 <b>G. P. Gomes</b> *"Controlling chemical reactivity with stereoelectronic effects."* Ann Arbor: The Florida State University; **2018**. 326 p. [*link*](https://search.proquest.com/docview/2174054163)
 
 ___
