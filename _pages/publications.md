@@ -24,8 +24,6 @@ ___
 
 <i><sup>‡</sup> = both authors contributed equally for this publication</i>
 
-___
-
 (30) A. Hughes, <b>G. P. Gomes</b>, I. V. Alabugin “Stereoelectronic Influence of a “Spectator” Propargylic Substituent Can Override Aromaticity Effects in Radical Peri-cyclizations on Route to Expanded Polyaromatics”, _J. Org. Chem._, **2019**, _84 (4)_, 1853, [doi: 10.1021/acs.joc.8b02779](https://pubs.acs.org/doi/10.1021/acs.joc.8b02779)
 
 ![alt text](https://gabegomes.github.io/images/pub30.png "pub30.png")
