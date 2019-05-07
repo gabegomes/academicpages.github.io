@@ -17,7 +17,6 @@ Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO
 
 ![alt text](https://gabegomes.github.io/images/pub31.png "pub31.png")
 
-___
 ***Published***
 
 <i><sup>‡</sup> = both authors contributed equally for this publication</i>
@@ -28,6 +27,8 @@ ___
 ___
 
 (PhD dissertation) <b>G. P. Gomes</b> *"Controlling chemical reactivity with stereoelectronic effects."* Ann Arbor: The Florida State University; **2018**. 326 p. [*link*](https://search.proquest.com/docview/2174054163) 
+
+
 ___
 
 (29) <b>G. P. Gomes</b>, A. E. Morrison, G. B. Dudley, I. V. Alabugin, "Optimizing amine-mediated alkyne-allene isomerization to improve
