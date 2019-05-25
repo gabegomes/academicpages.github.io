@@ -109,7 +109,7 @@ ___
 
 ___
 
-(18) N. H. Park, <b>G. P. Gomes</b>, M. Fevre, G. O. Jones, I. V. Alabugin, J. L. Hedrick "Organocatalyzed Synthesis of Fluorinated Poly(aryl thioethers)" <i>Nature Communications</i>, <b>2017</b>, <i>8</i>, 166, [doi: 10.1038/s41467-017-00186-3](https://www.nature.com/articles/s41467-017-00186-3.epdf); Fig.2: [here](https://www.nature.com/articles/s41467-017-01129-8) <i>a collaboration with IBM Research, CA</i> (This paper was featured on: [Plastic News](http://www.plasticsnews.com/article/20170804/NEWS/170809937/ibm-researchers-create-new-family-of-fluoropolymers); <i>Synfacts</i> <b>2017</b>, <i>13 (10)</i>, 1035 “Salt-Free Polymerization Yields Fluorinated Poly(aryl thioether)s”, [doi: 10.1055/s-0036-1591247](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0036-1590439.pdf); _IBM Research Blog_, ["New discovery: Rapid preparation of high performance materials and coatings"](https://www.ibm.com/blogs/research/2017/08/discovery-high-performance-coatings/)
+(18) N. H. Park, <b>G. P. Gomes</b>, M. Fevre, G. O. Jones, I. V. Alabugin, J. L. Hedrick "Organocatalyzed Synthesis of Fluorinated Poly(aryl thioethers)" <i>Nature Communications</i>, <b>2017</b>, <i>8</i>, 166, [doi: 10.1038/s41467-017-00186-3](https://www.nature.com/articles/s41467-017-00186-3.epdf); Fig.2: [here](https://www.nature.com/articles/s41467-017-01129-8) <i>a collaboration with IBM Research, CA</i> (This paper was featured on: • [Plastic News](http://www.plasticsnews.com/article/20170804/NEWS/170809937/ibm-researchers-create-new-family-of-fluoropolymers);  • <i>Synfacts</i> <b>2017</b>, <i>13 (10)</i>, 1035 “Salt-Free Polymerization Yields Fluorinated Poly(aryl thioether)s”, [doi: 10.1055/s-0036-1591247](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0036-1590439.pdf); • _IBM Research Blog_, ["New discovery: Rapid preparation of high performance materials and coatings"](https://www.ibm.com/blogs/research/2017/08/discovery-high-performance-coatings/)
 
 ![alt_text](https://gabegomes.github.io/images/pub18.png "pub18.png")
 
@@ -123,7 +123,7 @@ ___
 
 ___
 
-(16) P. Poonptana, <b>G. P. Gomes</b>, T. Hurrle, K. Chardon, S. Bräse, K-S. Masters, I. V. Alabugin "Formaldehyde-Extruding Homolytic Aromatic Substitution via C->O Transposition: Evolution of a Contaminating Side-Reaction to ‘Traceless-Linker’ access to Congested Biaryl Bonds"  <i>Chem. Eur. J.</i>, <b>2017</b>, <i>23</i>, 9091, [doi: 10.1002/chem.201700085](http://onlinelibrary.wiley.com/doi/10.1002/chem.201700085/epdf) ([Hot Paper on Chemistry – A European Journal](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/homepage/2111_hotpaper.html))
+(16) P. Poonptana, <b>G. P. Gomes</b>, T. Hurrle, K. Chardon, S. Bräse, K-S. Masters, I. V. Alabugin "Formaldehyde-Extruding Homolytic Aromatic Substitution via C->O Transposition: Evolution of a Contaminating Side-Reaction to ‘Traceless-Linker’ access to Congested Biaryl Bonds"  <i>Chem. Eur. J.</i>, <b>2017</b>, <i>23</i>, 9091, [doi: 10.1002/chem.201700085](http://onlinelibrary.wiley.com/doi/10.1002/chem.201700085/epdf) (Featured as [Hot Paper on _Chemistry – A European Journal_](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/homepage/2111_hotpaper.html))
 
 ![alt_text](https://gabegomes.github.io/images/pub16.png "pub16.png")
 
@@ -137,7 +137,7 @@ ___
 
 ___
 
-(14) C. J. Evoniuk<sup>‡</sup>, <b>G. P. Gomes</b><sup>‡</sup>, M. Ly, F. D. White, I. V. Alabugin "Coupling radical homoallylic expansions with C-C fragmentations for the synthesis of heteroaromatics: Quinolines from reactions of o-alkenylarylisonitriles with aryl, alkyl and perfluoroalkyl radicals" <i>J. Org. Chem.</i>, <b>2017</b>, <i>82 (8)</i>, 4265, [doi: 10.1021/acs.joc.7b00262](http://pubs.acs.org/doi/abs/10.1021/acs.joc.7b00262?journalCode=joceah#.WOJ74BJ3Ebs.facebook) (featured on <i>Synfacts</i> <b>2017</b>, <i>13 (06)</i>, 253 “Synthesis of Quinolines From o-Alkenylaryl Isonitriles”, [doi: 10.1055/s-0036-1590439](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0036-1590439.pdf) and on 
+(14) C. J. Evoniuk<sup>‡</sup>, <b>G. P. Gomes</b><sup>‡</sup>, M. Ly, F. D. White, I. V. Alabugin "Coupling radical homoallylic expansions with C-C fragmentations for the synthesis of heteroaromatics: Quinolines from reactions of o-alkenylarylisonitriles with aryl, alkyl and perfluoroalkyl radicals" <i>J. Org. Chem.</i>, <b>2017</b>, <i>82 (8)</i>, 4265, [doi: 10.1021/acs.joc.7b00262](http://pubs.acs.org/doi/abs/10.1021/acs.joc.7b00262?journalCode=joceah#.WOJ74BJ3Ebs.facebook) (Featured on: • <i>Synfacts</i> <b>2017</b>, <i>13 (06)</i>, 253 “Synthesis of Quinolines From o-Alkenylaryl Isonitriles”, [doi: 10.1055/s-0036-1590439](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0036-1590439.pdf); • on 
 [organic-chemistry.org](http://www.organic-chemistry.org/abstracts/lit5/831.shtm))
 
 ![alt_text](https://gabegomes.github.io/images/pub14.png "pub14.png")
@@ -201,7 +201,7 @@ ___
 
 ___
 
-(05) <b>G. P. Gomes</b>, V. A. Vil’, A. Terent’ev and I. Alabugin, "Stereoelectronic source of the anomalous stability of bis- peroxides", <i>Chem. Sci.</i>, <b>2015</b>, <i>6</i>, 6783, [doi: 10.1039/C5SC02402A](http://pubs.rsc.org/en/content/articlelanding/2015/sc/c5sc02402a?iscitedby=True#!divAbstract). This paper was featured on [RSC's Chemistry World](http://www.rsc.org/chemistryworld/2015/10/peroxides-stabilise-drug-molecules) and on [NBO's features website](http://nbo6.chem.wisc.edu/feature.htm).
+(05) <b>G. P. Gomes</b>, V. A. Vil’, A. Terent’ev and I. Alabugin, "Stereoelectronic source of the anomalous stability of bis- peroxides", <i>Chem. Sci.</i>, <b>2015</b>, <i>6</i>, 6783, [doi: 10.1039/C5SC02402A](http://pubs.rsc.org/en/content/articlelanding/2015/sc/c5sc02402a?iscitedby=True#!divAbstract). This paper was featured on: • [RSC's Chemistry World](http://www.rsc.org/chemistryworld/2015/10/peroxides-stabilise-drug-molecules); • on [NBO's features website](http://nbo6.chem.wisc.edu/feature.htm).
 
 ![alt text](https://gabegomes.github.io/images/pub5.png "pub5.png")
 
