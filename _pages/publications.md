@@ -18,11 +18,8 @@ ___
 (31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, _J. Org. Chem._, **2019**, _84 (10)_, 6232, [doi: 10.1021/acs.joc.9b00503](https://pubs.acs.org/doi/10.1021/acs.joc.9b00503)
 Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
 
-![alt text](https://gabegomes.github.io/images/pub31.png?style=centerme "pub31.png")
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
+![alt text](https://gabegomes.github.io/images/pub31.png?style=centerme)
+
 ___
 
 
