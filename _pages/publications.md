@@ -18,7 +18,7 @@ ___
 (31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, _J. Org. Chem._, **2019**, _84 (10)_, 6232, [doi: 10.1021/acs.joc.9b00503](https://pubs.acs.org/doi/10.1021/acs.joc.9b00503)
 Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
 
-![alt text](https://gabegomes.github.io/images/pub31.png?style=centerme)
+![alt text](https://gabegomes.github.io/images/pub31.png "pub31.png")
 
 ___
 
@@ -53,7 +53,7 @@ Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Is
 
 ___
 
-(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, **2018**;e1389, [doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389)
+(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, **2018**;e1389,  [doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389) (Featured as one of the top 20 most downloaded papers in <i>WIREs Comput. Mol. Sci.</i> in the first 12 months following its publication.)
 
 ![alt text](https://gabegomes.github.io/images/pub26.png "pub26.png")
 
