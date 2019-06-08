@@ -45,19 +45,19 @@ ___
 
 ___
 
-(27) **G. P. Gomes**, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i>, **2018**, _140 (43)_, 14272, [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513) (Highlighted on: • _[ACS Axial](https://axial.acs.org/2019/03/08/discover-jacs-research-that-got-its-start-on-chemrxiv/?hootPostID=e05569fde1ab505b6be9f9d146c85a7f)_; • _[Colorblind Chemist](https://colorblindchemist.wordpress.com/2018/12/22/my-personal-top-10-preprints-of-2018/)_)
-Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
+(27) **G. P. Gomes**, Y. D. Loginova, S. Z. Vatsadze, I. V. Alabugin, "Isonitriles as Stereoelectronic Chameleons: The Donor-Acceptor Dichotomy in Radical Additions", <i>J. Am. Chem. Soc.</i>, **2018**, _140 (43)_, 14272, [doi: 10.1021/jacs.8b08513](https://pubs.acs.org/doi/10.1021/jacs.8b08513) 
 
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
 
-
+(Highlighted on: • _[ACS Axial](https://axial.acs.org/2019/03/08/discover-jacs-research-that-got-its-start-on-chemrxiv/?hootPostID=e05569fde1ab505b6be9f9d146c85a7f)_; • _[Colorblind Chemist](https://colorblindchemist.wordpress.com/2018/12/22/my-personal-top-10-preprints-of-2018/)_)
+Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
 ___
 
-(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, **2018**;e1389,  [doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389) (Featured as one of the top 20 most downloaded papers in <i>WIREs Comput. Mol. Sci.</i> in the first 12 months following its publication.)
+(26) I. V. Alabugin, <b>G. P. Gomes</b>, M. Abdo, "Hyperconjugation", <i>WIREs Comput. Mol. Sci.</i>, **2018**;e1389,  [doi.org/10.1002/wcms.1389](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1389) 
 
 ![alt text](https://gabegomes.github.io/images/pub26.png "pub26.png")
 
-
+(Featured as one of the top 20 most downloaded papers in <i>WIREs Comput. Mol. Sci.</i> in the first 12 months following its publication.)
 ___
 
 (25) <b>G. P. Gomes</b> and I. V. Alabugin, Chapter 15: "Stereoelectronic Effects: Analysis by Computational and Theoretical Methods”, Applied Theoretical Organic Chemistry. Editor: Dean Tantillo, Wiley, pp. 451–502, <i>May</i>, **2018**, doi:10.1142/9781786344090_0015 <a href= "http://www.worldscientific.com/worldscibooks/10.1142/q0119">link</a>
