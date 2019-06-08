@@ -19,7 +19,10 @@ ___
 Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
 
 ![alt text](https://gabegomes.github.io/images/pub31.png?style=centerme "pub31.png")
-
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 ___
 
 
