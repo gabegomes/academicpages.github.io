@@ -20,7 +20,7 @@ redirect_from:
 + Cyclizations & Cascade Reactions
 + Autonomous Organic Synthesis
 
-**Abstract for 'Taming Oxygen-Rich Systems with Stereoelectronic Effects' talk**
+**Abstract for the July 2018 version of the 'Taming Oxygen-Rich Systems with Stereoelectronic Effects' talk**
 **[<u>link</u>](https://gabegomes.github.io/files/Abstract_talk_UFRJ_Gabe_Gomes_July_2018.pdf)** 
 
 <embed src="https://gabegomes.github.io/files/Abstract_talk_UFRJ_Gabe_Gomes_July_2018.pdf" type="application/pdf" />
