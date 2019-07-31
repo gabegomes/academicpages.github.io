@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-***Preprints & Submitted***
+***In print***
 
-(32) R. Lee, E. Cagle, B. Bashrum, E. Walters, J. Massey, M. Zanghi, C. Birchfield, D. French, J. Joy, **G. P. Gomes**, P. A. Wiget “Electronic donation or steric contraction: a spectroscopic and structural analysis of medium-sized constrained rings for potential long-range hyperconjugation”, **2019**, _submitted_
+(32) R. Lee, E. Cagle, B. Bashrum, E. Walters, J. Massey, M. Zanghi, C. Birchfield, D. French, J. Joy, **G. P. Gomes**, P. A. Wiget “Electronic donation or steric contraction: a spectroscopic and structural analysis of medium-sized constrained rings for potential long-range hyperconjugation”, _J. Org. Chem._, **2019**, _just accepted_, , [doi: 10.1021/acs.joc.9b00979](https://pubs.acs.org/doi/10.1021/acs.joc.9b00979)
+
+
+![alt text](https://gabegomes.github.io/images/pub32.png "pub32.png")
 
 ___
 
