@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**An overview of my PhD research projects**
+**An overview of my research projects**
 
 ![alt text](https://gabegomes.github.io/images/projects_August_2019.png "projects_August_2019.png")
 
