@@ -9,7 +9,7 @@ redirect_from:
 
 **An overview of my PhD research projects**
 
-![alt text](https://gabegomes.github.io/images/projects_April_2018.png "projects_April_2018.png")
+![alt text](https://gabegomes.github.io/images/projects_August_2019.png "projects_August_2019.png")
 
 **Research interests**
 + Computational & Physical Organic Chemistry
