@@ -236,6 +236,7 @@ ___
 ![alt text](https://gabegomes.github.io/images/pub5.png "pub5.png")
 
 *This paper was featured on: • [RSC's Chemistry World](http://www.rsc.org/chemistryworld/2015/10/peroxides-stabilise-drug-molecules); • on [NBO's features website](http://nbo6.chem.wisc.edu/feature.htm).*
+*Behind the scenes on: [medium.com](https://medium.com/@gabrieldospassosgomes/the-behind-the-scenes-of-stereoelectronic-sources-of-the-anomalous-stability-of-bis-peroxides-b0a16f385efc).*
 
 
 ___
