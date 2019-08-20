@@ -40,13 +40,14 @@ In 2019, Gabe joined the University of Toronto as a Postdoctoral Research Fellow
 
 ## Awards, Honors and Grants
 
-+ Featured as a Florida State University Student Star ([2018](https://news.fsu.edu/student-stars/2018/12/05/gabriel-gomes/))
-+ Selected for IUPAC’s Periodic Table of Younger Chemists as “Yttrium” ([2018](https://iupac.org/100/chemist/gabriel-dos-passos-gomes-yt/))
++ Featured on Florida State University's College of Arts & Sciences Spectrum Magazine with the article _“Scientific Sensation”_ ([2019](https://artsandsciences.fsu.edu/spectrum-magazine/alumni-alight/spectrum-summer-2019-scientific-sensation))
 + CAS SciFinder Future Leaders ([2018](https://www.cas.org/about/futureleaders))
-+ ACS Graduate Research Symposium @ Indiana University, Bloomington, IN (_talk_, [2018](https://www.organicdivision.org/grs/grshistory/))
 + ACS COMP Chemical Computing Group Excellence Award ([2018](http://www.acscomp.org/awards/chemical-computing-group-excellence-award))
-+ Machine Learning in Science and Engineering Symposium @ Carnegie Mellon University, Pittsburgh, PA (_travel award_, [2018](https://events.mcs.cmu.edu/mlse/))
 + FSU’s Graduate Student Research and Creativity Award ([2018](https://gradschool.fsu.edu/news-recognitions/previous-award-winners/research-and-creativity-awards))
++ Selected for IUPAC’s Periodic Table of Younger Chemists as “Yttrium” ([2018](https://iupac.org/100/chemist/gabriel-dos-passos-gomes-yt/))
++ Featured as a Florida State University Student Star ([2018](https://news.fsu.edu/student-stars/2018/12/05/gabriel-gomes/))
++ ACS Graduate Research Symposium @ Indiana University, Bloomington, IN (_talk_, [2018](https://www.organicdivision.org/grs/grshistory/))
++ Machine Learning in Science and Engineering Symposium @ Carnegie Mellon University, Pittsburgh, PA (_travel award_, [2018](https://events.mcs.cmu.edu/mlse/))
 + Florida State University Fellows Society (_inducted_, [2017](http://www.gradschool.fsu.edu/fellows-society))
 + 67th Lindau Nobel Laureate Meeting (Chemistry), _invitation as young researcher_ ([2017](https://news.fsu.edu/news/science-technology/2017/06/22/fsu-graduate-students-attend-international-nobel-laureate-meeting/))
 + Philip Schlenoff Graduate Travel Award (2017)
