@@ -5,18 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-***In print***
+***Preprints***
 
-(32) R. Lee, E. Cagle, B. Bashrum, E. Walters, J. Massey, M. Zanghi, C. Birchfield, D. French, J. Joy, **G. P. Gomes**, P. A. Wiget “Electronic donation or steric contraction: a spectroscopic and structural analysis of medium-sized constrained rings for potential long-range hyperconjugation”, _J. Org. Chem._, **2019**, _just accepted_, [doi: 10.1021/acs.joc.9b00979](https://pubs.acs.org/doi/10.1021/acs.joc.9b00979)
+(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Diverting Radical-Anionic C-H Amination to a C-N/C-O Cascade for the Construction of Hydroxyisoindolines from Unprotected Amides”, _submitted_, **2019**
 
+![alt text](https://gabegomes.github.io/images/pub32.png "pub33.png")
 
-![alt text](https://gabegomes.github.io/images/pub32.png "pub32.png")
+Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Diverting_Radical-Anionic_C-H_Amidation_to_a_C-N_C-O_Cascade_for_the_Construction_of_Hydroxyisoindolines_from_Unprotected_Amides/9768095)
 
 ___
 
 ***Published***
 
 <i><sup>‡</sup> = both authors contributed equally for this publication</i>
+
+(32) R. Lee, E. Cagle, B. Bashrum, E. Walters, J. Massey, M. Zanghi, C. Birchfield, D. French, J. Joy, **G. P. Gomes**, P. A. Wiget “Electronic donation or steric contraction: a spectroscopic and structural analysis of medium-sized constrained rings for potential long-range hyperconjugation”, _J. Org. Chem._, **2019**, _84 (16)_, 9867, [doi: 10.1021/acs.joc.9b00979](https://pubs.acs.org/doi/10.1021/acs.joc.9b00979)
+
+
+![alt text](https://gabegomes.github.io/images/pub32.png "pub32.png")
+
+___
+
 
 (31) **G. P. Gomes**, A. Wimmer, J. Smith,  B. König,  I. V. Alabugin “CO<sub>2</sub> or SO<sub>2</sub>: Should it stay, or should it go?”, _J. Org. Chem._, **2019**, _84 (10)_, 6232, [doi: 10.1021/acs.joc.9b00503](https://pubs.acs.org/doi/10.1021/acs.joc.9b00503)
 
