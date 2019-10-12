@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Education and Training
   
-**University of Toronto** (UofT), Department of Chemistry, Toronto, ON, Canada (2019 – present)
+**University of Toronto** (UofT), Department of Chemistry & Department of Computer Science, Toronto, ON, Canada (2019 – present)
   +	Postdoctoral Research Fellow, Advisor: Professor [Alán Aspuru-Guzik](https://matter.toronto.edu)    	      				   
 
 **Florida State University** (FSU), Department of Chemistry and Biochemistry, 
