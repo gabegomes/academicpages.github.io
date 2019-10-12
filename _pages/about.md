@@ -38,7 +38,7 @@ In 2019, Gabe joined the University of Toronto as a Postdoctoral Research Fellow
 
 </p>
 
-## Awards, Honors and Grants
+## Awards, Honors, Grants & Media
 
 + Featured on Florida State University's College of Arts & Sciences Spectrum Magazine with the article _“Scientific Sensation”_ ([2019](https://artsandsciences.fsu.edu/spectrum-magazine/alumni-alight/spectrum-summer-2019-scientific-sensation))
 + CAS SciFinder Future Leaders ([2018](https://www.cas.org/about/futureleaders))
