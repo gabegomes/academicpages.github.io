@@ -7,7 +7,6 @@ author_profile: true
 ___
 ***Preprints***
 (34) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _submitted_, **2019**
-
 ![alt text](https://gabegomes.github.io/images/pub34.png "pub34.png")
 
 • Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Diverting_Radical-Anionic_C-H_Amidation_to_a_C-N_C-O_Cascade_for_the_Construction_of_Hydroxyisoindolines_from_Unprotected_Amides/9768095)
