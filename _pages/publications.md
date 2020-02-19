@@ -5,16 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-***Preprints***
+***Preprints and Just Accepted Manuscripts***
 
 (35) E. Gonzalez-Rodriguez, M. Abdo, **G. P. Gomes**, S. Ayad, N. P. Tsvetkov, F. D. White, K. Hanson, I. V. Alabugin “Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne peri-Annulations: Radical Cascades Converging on the Same Aromatic Core”, _submitted_, **2020**
+
 ![alt text](https://gabegomes.github.io/images/pub35.png "pub35.png")
 
 • Preprint on _ChemRxiv_: [*link to ChemRxiv*](https://chemrxiv.org/articles/Twofold_-Extension_of_Polyarenes_via_Double_and_Triple_Radical_Alkyne_peri-Annulations_Radical_Cascades_Converging_on_the_Same_Aromatic_Core/11860245)
 
 ___
 
-(34) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _submitted_, **2019**
+(34) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _submitted_, **2020**
+
 ![alt text](https://gabegomes.github.io/images/pub34.png "pub34.png")
 
 • Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Machine_Learning_Reactivity_in_the_Chemical_Space_Surrounding_Vaska_s_Complex/10347566)
