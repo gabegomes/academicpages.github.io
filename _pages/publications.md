@@ -7,7 +7,7 @@ author_profile: true
 ___
 ***Preprints and Just Accepted Manuscripts***
 
-(35) E. Gonzalez-Rodriguez, M. Abdo, **G. P. Gomes**, S. Ayad, N. P. Tsvetkov, F. D. White, K. Hanson, I. V. Alabugin “Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne peri-Annulations: Radical Cascades Converging on the Same Aromatic Core”, _submitted_, **2020**
+(35) E. Gonzalez-Rodriguez, M. Abdo, **G. P. Gomes**, S. Ayad, N. P. Tsvetkov, F. D. White, K. Hanson, I. V. Alabugin “Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne _peri_-Annulations: Radical Cascades Converging on the Same Aromatic Core”, _submitted_, **2020**
 
 ![alt text](https://gabegomes.github.io/images/pub35.png "pub35.png")
 
