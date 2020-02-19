@@ -7,6 +7,13 @@ author_profile: true
 ___
 ***Preprints***
 
+(35) E. Gonzalez-Rodriguez, M. Abdo, **G. P. Gomes**, S. Ayad, N. P. Tsvetkov, F. D. White, K. Hanson, I. V. Alabugin “Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne peri-Annulations: Radical Cascades Converging on the Same Aromatic Core”, _submitted_, **2020**
+![alt text](https://gabegomes.github.io/images/pub35.png "pub35.png")
+
+• Preprint on _ChemRxiv_: [*link to ChemRxiv*](https://chemrxiv.org/articles/Twofold_-Extension_of_Polyarenes_via_Double_and_Triple_Radical_Alkyne_peri-Annulations_Radical_Cascades_Converging_on_the_Same_Aromatic_Core/11860245)
+
+___
+
 (34) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _submitted_, **2019**
 ![alt text](https://gabegomes.github.io/images/pub34.png "pub34.png")
 
@@ -17,11 +24,11 @@ ___
 
 ___
 
-(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Diverting Radical-Anionic C-H Amination to a C-N/C-O Cascade for the Construction of Hydroxyisoindolines from Unprotected Amides”, _submitted_, **2019**
+(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Testing the Limits of Radical-Anionic CH-Amination: a 10-Million-Fold Decrease in Basicity Opens a New Path to Hydroxyisoindolines via a Mixed C-N/C-O-Forming Cascade”, _just accepted_, _Chem. Sci._, **2020**
 
 ![alt text](https://gabegomes.github.io/images/pub33.png "pub33.png")
 
-Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Diverting_Radical-Anionic_C-H_Amidation_to_a_C-N_C-O_Cascade_for_the_Construction_of_Hydroxyisoindolines_from_Unprotected_Amides/9768095)
+Preprint on _ChemRxiv_: “Diverting Radical-Anionic C-H Amination to a C-N/C-O Cascade for the Construction of Hydroxyisoindolines from Unprotected Amides” [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Diverting_Radical-Anionic_C-H_Amidation_to_a_C-N_C-O_Cascade_for_the_Construction_of_Hydroxyisoindolines_from_Unprotected_Amides/9768095)
 
 ___
 
