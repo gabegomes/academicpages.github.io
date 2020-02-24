@@ -26,7 +26,7 @@ ___
 
 ___
 
-(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Testing the Limits of Radical-Anionic CH-Amination: a 10-Million-Fold Decrease in Basicity Opens a New Path to Hydroxyisoindolines via a Mixed C-N/C-O-Forming Cascade”, _just accepted_, _Chem. Sci._, **2020**
+(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Testing the Limits of Radical-Anionic CH-Amination: a 10-Million-Fold Decrease in Basicity Opens a New Path to Hydroxyisoindolines via a Mixed C-N/C-O-Forming Cascade”, _just accepted_, _Chem. Sci._, **2020**, [doi: 10.1039/C9SC06511C](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06511c#!divAbstract)
 
 ![alt text](https://gabegomes.github.io/images/pub33.png "pub33.png")
 
