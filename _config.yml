@@ -8,7 +8,7 @@
 # Site Settings
 
 locale                   : "en-US"
-title                    : "Gabriel dos Passos Gomes"
+title                    : "Gabriel dos Passos Gomes, PhD"
 title_separator          : "-"
 name                     : &name "Gabriel dos Passos Gomes"
 description              : &description "personal description"
@@ -91,11 +91,11 @@ google_analytics: UA-124609669-2
 author:
   name             : "Gabe Gomes"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher."
+  bio              : "Postdoctoral Researcher"
   location         : "Toronto, ON, Canada"
   employer         : "University of Toronto"
   googlescholar    : "https://scholar.google.com/citations?user=LACTdhMAAAAJ&hl=en"
-  email            : "ggomes[at]chem.fsu.edu"
+  email            : "gabriel.gomes[at]utoronto.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +115,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   researchgate     : "Gabriel_Gomes4"
-  twitter          : "gdospassosgomes"
+  twitter          : "gpassosgomes"
   vine             :
   weibo            :
   xing             :
