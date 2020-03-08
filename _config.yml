@@ -8,7 +8,7 @@
 # Site Settings
 
 locale                   : "en-US"
-title                    : "Gabriel dos Passos Gomes, PhD"
+title                    : "Gabe Gomes"
 title_separator          : "-"
 name                     : &name "Gabriel dos Passos Gomes"
 description              : &description "personal description"
