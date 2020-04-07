@@ -7,7 +7,7 @@ author_profile: true
 ___
 ***Preprints and Just Accepted Manuscripts***
 
-(35) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _just accepted_, **2020**
+(35) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _just accepted_, _Chem. Sci._, **2020**, [doi: 10.1039/D0SC00445F](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc00445f#!divAbstract)
 
 ![alt text](https://gabegomes.github.io/images/pub34.png "pub34.png")
 
@@ -24,7 +24,7 @@ ___
 • Preprint on _ChemRxiv_: [*link to ChemRxiv*](https://chemrxiv.org/articles/Twofold_-Extension_of_Polyarenes_via_Double_and_Triple_Radical_Alkyne_peri-Annulations_Radical_Cascades_Converging_on_the_Same_Aromatic_Core/11860245)
 ___
 
-(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Testing the Limits of Radical-Anionic CH-Amination: a 10-Million-Fold Decrease in Basicity Opens a New Path to Hydroxyisoindolines via a Mixed C-N/C-O-Forming Cascade”, _just accepted_, _Chem. Sci._, **2020**, [doi: 10.1039/C9SC06511C](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06511c#!divAbstract)
+(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Testing the Limits of Radical-Anionic CH-Amination: a 10-Million-Fold Decrease in Basicity Opens a New Path to Hydroxyisoindolines via a Mixed C-N/C-O-Forming Cascade”, _in print_, _Chem. Sci._, **2020**, [doi: 10.1039/C9SC06511C](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06511c#!divAbstract)
 
 ![alt text](https://gabegomes.github.io/images/pub33.png "pub33.png")
 
