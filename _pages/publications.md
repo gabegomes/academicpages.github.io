@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-***Preprints and Just Accepted Manuscripts***
 
-(35) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _just accepted_, _Chem. Sci._, **2020**, [doi: 10.1039/D0SC00445F](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc00445f#!divAbstract)
+***In Print***
+
+(35) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _in print_, _Chem. Sci._, **2020**, [doi: 10.1039/D0SC00445F](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc00445f#!divAbstract)
 
 ![alt text](https://gabegomes.github.io/images/pub34.png "pub34.png")
 
@@ -17,7 +18,7 @@ ___
 • _DataVerse_ page: [*link to DataVerse page*](https://doi.org/10.5683/SP2/CJS7QA)
 ___
 
-(34) E. Gonzalez-Rodriguez, M. Abdo, **G. P. Gomes**, S. Ayad, N. P. Tsvetkov, F. D. White, K. Hanson, I. V. Alabugin “Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne _peri_-Annulations: Radical Cascades Converging on the Same Aromatic Core”, _just accepted_, _J. Am. Chem. Soc._, **2020**, [doi: 10.1021/jacs.0c01856](https://pubs.acs.org/doi/abs/10.1021/jacs.0c01856)
+(34) E. Gonzalez-Rodriguez, M. Abdo, **G. P. Gomes**, S. Ayad, N. P. Tsvetkov, F. D. White, K. Hanson, I. V. Alabugin “Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne _peri_-Annulations: Radical Cascades Converging on the Same Aromatic Core”, _in print_, _J. Am. Chem. Soc._, **2020**, [doi: 10.1021/jacs.0c01856](https://pubs.acs.org/doi/abs/10.1021/jacs.0c01856)
 
 ![alt text](https://gabegomes.github.io/images/pub35.png "pub35.png")
 
