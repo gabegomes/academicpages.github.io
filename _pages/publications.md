@@ -7,7 +7,7 @@ author_profile: true
 ___
 ***Preprints and Just Accepted Manuscripts***
 
-(36) **G. P. Gomes**, G. Xu, X. Zhu, L.-M. Chamoreau, O. Bistri-Aslanoff, S. Roland, I. V. Alabugin, M. Sollogoub  “"Mapping the coordination space for the C-H•••M interactions in confined spaces: (α-ICyDᴹᵉ)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions”, Preprint on _ChemRxiV_, **2020**, _Version 1_, [doi: 10.26434/chemrxiv.12167916](https://chemrxiv.org/articles/Mapping_the_coordination_space_for_C_H__M_interactions_in_confined_spaces_-ICyD_Au_Ag_Cu_complexes_reveal_contra-electrostatic_H-bonds_masquerading_as_anagostic_interactions/12167916)
+(36) **G. P. Gomes**, G. Xu, X. Zhu, L.-M. Chamoreau, O. Bistri-Aslanoff, S. Roland, I. V. Alabugin, M. Sollogoub  “Mapping the coordination space for the C-H•••M interactions in confined spaces: (α-ICyDᴹᵉ)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions”, Preprint on _ChemRxiV_, **2020**, _Version 1_, [doi: 10.26434/chemrxiv.12167916](https://chemrxiv.org/articles/Mapping_the_coordination_space_for_C_H__M_interactions_in_confined_spaces_-ICyD_Au_Ag_Cu_complexes_reveal_contra-electrostatic_H-bonds_masquerading_as_anagostic_interactions/12167916)
 
 ![alt text](https://gabegomes.github.io/images/pub36.png "pub36.png")
 
