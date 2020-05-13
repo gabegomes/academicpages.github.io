@@ -25,8 +25,8 @@ ___
 ![alt text](https://gabegomes.github.io/images/pub34.png "pub34.png")
 
 • Featured on the inside front cover of _Chemical Science_: [*link to cover*](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc90094j/unauth#!divAbstract)
-
 ![alt text](https://gabegomes.github.io/images/pub34b.png "pub34b.png")
+• Featured on the [_Matter Group_ website](https://www.matter.toronto.edu/news/our-first-paper-on-ml-for-catalysis-is-featured-on-chemical-science) 
 
 • Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Machine_Learning_Reactivity_in_the_Chemical_Space_Surrounding_Vaska_s_Complex/10347566)
 
