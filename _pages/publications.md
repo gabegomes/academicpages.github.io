@@ -13,11 +13,17 @@ ___
 
 • _GitHub_ page: [*github.com/gabegomes/anagostic_contra-electrostatic_H-bonds*](https://github.com/gabegomes/anagostic_contra-electrostatic_H-bonds)
 
-***In Print***
+***Published***
 
-(35) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _in print_, _Chem. Sci._, **2020**, [doi: 10.1039/D0SC00445F](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc00445f#!divAbstract)
+<i><sup>‡</sup> = both authors contributed equally for this publication</i>
+
+(35) P. Friederich, **G. P. Gomes**, R. D. Bin, A. Aspuru-Guzik, D. Balcells “Machine Learning Chemical Reactivity Surrounding Vaska's Complexes Chemical Space”, _Chem. Sci._, **2020**, _11_, 4584 [doi: 10.1039/D0SC00445F](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc00445f#!divAbstract)
 
 ![alt text](https://gabegomes.github.io/images/pub34.png "pub34.png")
+
+• Featured on the inside front cover of _Chemical Science_: [*link to cover*](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc90094j/unauth#!divAbstract)
+
+![alt text](https://gabegomes.github.io/images/pub34b.png "pub34b.png")
 
 • Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Machine_Learning_Reactivity_in_the_Chemical_Space_Surrounding_Vaska_s_Complex/10347566)
 
@@ -25,14 +31,14 @@ ___
 • _DataVerse_ page: [*link to DataVerse page*](https://doi.org/10.5683/SP2/CJS7QA)
 ___
 
-(34) E. Gonzalez-Rodriguez, M. Abdo, **G. P. Gomes**, S. Ayad, N. P. Tsvetkov, F. D. White, K. Hanson, I. V. Alabugin “Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne _peri_-Annulations: Radical Cascades Converging on the Same Aromatic Core”, _in print_, _J. Am. Chem. Soc._, **2020**, [doi: 10.1021/jacs.0c01856](https://pubs.acs.org/doi/abs/10.1021/jacs.0c01856)
+(34) E. Gonzalez-Rodriguez, M. Abdo, **G. P. Gomes**, S. Ayad, N. P. Tsvetkov, F. D. White, K. Hanson, I. V. Alabugin “Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne _peri_-Annulations: Radical Cascades Converging on the Same Aromatic Core”, _J. Am. Chem. Soc._, **2020**, _142 (18)_, 8352 [doi: 10.1021/jacs.0c01856](https://pubs.acs.org/doi/abs/10.1021/jacs.0c01856)
 
 ![alt text](https://gabegomes.github.io/images/pub35.png "pub35.png")
 
 • Preprint on _ChemRxiv_: [*link to ChemRxiv*](https://chemrxiv.org/articles/Twofold_-Extension_of_Polyarenes_via_Double_and_Triple_Radical_Alkyne_peri-Annulations_Radical_Cascades_Converging_on_the_Same_Aromatic_Core/11860245)
 ___
 
-(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Testing the Limits of Radical-Anionic CH-Amination: a 10-Million-Fold Decrease in Basicity Opens a New Path to Hydroxyisoindolines via a Mixed C-N/C-O-Forming Cascade”, _in print_, _Chem. Sci._, **2020**, [doi: 10.1039/C9SC06511C](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06511c#!divAbstract)
+(33) Q. Elliott, **G. P. Gomes**, C. J. Evoniuk, I. V. Alabugin “Testing the Limits of Radical-Anionic CH-Amination: a 10-Million-Fold Decrease in Basicity Opens a New Path to Hydroxyisoindolines via a Mixed C-N/C-O-Forming Cascade”, _Chem. Sci._, **2020**, _5_, 369 [doi: 10.1039/C9SC06511C](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06511c#!divAbstract)
 
 ![alt text](https://gabegomes.github.io/images/pub33.png "pub33.png")
 
@@ -40,9 +46,6 @@ Preprint on _ChemRxiv_: “Diverting Radical-Anionic C-H Amination to a C-N/C-O 
 
 ___
 
-***Published***
-
-<i><sup>‡</sup> = both authors contributed equally for this publication</i>
 
 (32) R. Lee, E. Cagle, B. Bashrum, E. Walters, J. Massey, M. Zanghi, C. Birchfield, D. French, J. Joy, **G. P. Gomes**, P. A. Wiget “Electronic donation or steric contraction: a spectroscopic and structural analysis of medium-sized constrained rings for potential long-range hyperconjugation”, _J. Org. Chem._, **2019**, _84 (16)_, 9867, [doi: 10.1021/acs.joc.9b00979](https://pubs.acs.org/doi/10.1021/acs.joc.9b00979)
 
