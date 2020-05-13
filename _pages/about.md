@@ -23,7 +23,7 @@ Tallahassee, FL, USA (2014 – 2018)
 ## About
 
 <p style='text-align: justify;'>
-In 2019, Gabe joined the University of Toronto as a Postdoctoral Research Fellow in the Matter Lab, led by Professor Alán Aspuru-Guzik. His research rests at the interface between machine learning and organic chemistry, where he aims to develop new platforms for autonomous reaction discovery, with emphasis on catalysis. His ultimate goal is to establish an independent research program focused on the development of new chemical reactions, pioneering research and training the next-generation of chemists.
+In 2019, Gabe joined the University of Toronto as a Postdoctoral Research Fellow in the [Matter Lab](https://matter.toronto.edu), led by Professor [Alán Aspuru-Guzik](https://www.matter.toronto.edu/basic-content-page/about-alan). His research rests at the interface between machine learning and organic chemistry, where he aims to develop new platforms for autonomous reaction discovery, with emphasis on catalysis. His ultimate goal is to establish an independent research program focused on the development of new chemical reactions, pioneering research and training the next-generation of chemists.
 <br />
 
 Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, Brazil under supervision of Professor Pierre Mothè Esteves, in 2013. His research at that university was focused on theoretical studies of electrophilic aromatic nitration via single electron transfer and a final project on the development of methane clathrates inhibitors. He also spent a year at the University of Lisbon, Portugal in an academic exchange researching reduced graphene oxides, with Professor Maria José Lourenço.
