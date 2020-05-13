@@ -42,7 +42,7 @@ ___
 
 ![alt text](https://gabegomes.github.io/images/pub33.png "pub33.png")
 
-Preprint on _ChemRxiv_: “Diverting Radical-Anionic C-H Amination to a C-N/C-O Cascade for the Construction of Hydroxyisoindolines from Unprotected Amides” [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Diverting_Radical-Anionic_C-H_Amidation_to_a_C-N_C-O_Cascade_for_the_Construction_of_Hydroxyisoindolines_from_Unprotected_Amides/9768095)
+• Preprint on _ChemRxiv_: “Diverting Radical-Anionic C-H Amination to a C-N/C-O Cascade for the Construction of Hydroxyisoindolines from Unprotected Amides” [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Diverting_Radical-Anionic_C-H_Amidation_to_a_C-N_C-O_Cascade_for_the_Construction_of_Hydroxyisoindolines_from_Unprotected_Amides/9768095)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 ![alt text](https://gabegomes.github.io/images/pub31.png "pub31.png")
 
-Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
+• Preprint on _ChemRxiv_: [*link to ChemRxiv_v2*](https://chemrxiv.org/articles/CO2_or_SO2_Should_It_Stay_or_Should_It_Go/7464587)
 
 
 ___
@@ -94,7 +94,7 @@ ___
 ![alt text](https://gabegomes.github.io/images/pub28.png "pub28.png")
 
 (Highlighted on: • _[ACS Axial](https://axial.acs.org/2019/03/08/discover-jacs-research-that-got-its-start-on-chemrxiv/?hootPostID=e05569fde1ab505b6be9f9d146c85a7f)_; • _[Colorblind Chemist](https://colorblindchemist.wordpress.com/2018/12/22/my-personal-top-10-preprints-of-2018/)_)
-Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
+• Preprint on _ChemRxiv_: [*link to ChemRxiv_v1*](https://chemrxiv.org/articles/Isonitriles_as_Stereoelectronic_Chameleons_The_Donor-Acceptor_Dichotomy_in_Radical_Additions/6983696)
 
 
 ___
@@ -103,7 +103,7 @@ ___
 
 ![alt text](https://gabegomes.github.io/images/pub26.png "pub26.png")
 
-( • *Featured as one of the __top 10%__ most downloaded papers in WIREs Comput. Mol. Sci. between 2018 and 2019.*)
+(• *Featured as one of the __top 10%__ most downloaded papers in WIREs Comput. Mol. Sci. between 2018 and 2019.*)
 
 
 ___
@@ -126,7 +126,7 @@ ___
 
 ![alt_text](https://gabegomes.github.io/images/pub23.png "pub23.png")
 
-*Featured on [FSU News](http://news.fsu.edu/news/science-technology/2018/02/20/researchers-achieve-olympic-ring-molecule-breakthrough-just-time-winter-games/) and reproduced on: [phys.org](https://phys.org/news/2018-02-olympic-molecule-breakthrough-winter-games.html); [sciencedaily.com](https://www.sciencedaily.com/releases/2018/02/180220143511.htm); [EurekAlert!](https://www.eurekalert.org/pub_releases/2018-02/fsu-ra021918.php))*
+*• Featured on [FSU News](http://news.fsu.edu/news/science-technology/2018/02/20/researchers-achieve-olympic-ring-molecule-breakthrough-just-time-winter-games/) and reproduced on: [phys.org](https://phys.org/news/2018-02-olympic-molecule-breakthrough-winter-games.html); [sciencedaily.com](https://www.sciencedaily.com/releases/2018/02/180220143511.htm); [EurekAlert!](https://www.eurekalert.org/pub_releases/2018-02/fsu-ra021918.php))*
 
 
 ___
@@ -135,7 +135,7 @@ ___
 
 ![alt_text](https://gabegomes.github.io/images/pub22.png "pub22.png")
 
-*Featured on [Chemical & Engineering News](https://cen.acs.org/articles/96/i7/Elusive-Criegee-reaction-intermediate-captured.html))*
+*• Featured on [Chemical & Engineering News](https://cen.acs.org/articles/96/i7/Elusive-Criegee-reaction-intermediate-captured.html))*
 
 
 ___
@@ -158,8 +158,8 @@ ___
 
 ![alt_text](https://gabegomes.github.io/images/pub19.png "pub19.png")
 
-[video-summary of the paper](http://s3.amazonaws.com/pclive-elsevier/proofs/elsevier/CHEMPR/256/images/mmc2.mp4)
-*This paper was featured on [FSU News](http://news.fsu.edu/news/science-technology/2017/10/09/fsu-scientists-twist-make-better-chemical-reactions/).*
+• [Video-summary of the paper](http://s3.amazonaws.com/pclive-elsevier/proofs/elsevier/CHEMPR/256/images/mmc2.mp4)
+*• This paper was featured on [FSU News](http://news.fsu.edu/news/science-technology/2017/10/09/fsu-scientists-twist-make-better-chemical-reactions/).*
 
 
 ___
@@ -184,7 +184,7 @@ ___
 
 ![alt_text](https://gabegomes.github.io/images/pub16.png "pub16.png")
 
-*Featured as [Hot Paper on _Chemistry – A European Journal_](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/homepage/2111_hotpaper.html)*
+*• Featured as [Hot Paper on _Chemistry – A European Journal_](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/homepage/2111_hotpaper.html)*
 
 
 ___
@@ -224,7 +224,7 @@ ___
 
 ![alt_text](https://gabegomes.github.io/images/pub11.png "pub11.png")
 
-*Featured on <i>Synfacts</i> <b>2017</b>, <i>13 (03)</i>, 253 “Three Benzynes and the Ynolate”, [doi: 10.1055/s-0036-1590046](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0036-1590046)*
+*• Featured on <i>Synfacts</i> <b>2017</b>, <i>13 (03)</i>, 253 “Three Benzynes and the Ynolate”, [doi: 10.1055/s-0036-1590046](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0036-1590046)*
 
 
 ___
@@ -233,7 +233,7 @@ ___
 
 ![alt_text](https://gabegomes.github.io/images/pub10.png "pub10.png")
 
-([Web of Science's top 1% Chemistry highly cited papers for Nov/Dec 2017](http://apps.webofknowledge.com/InboundService.do?product=WOS&Func=Frame&DestFail=http%3A%2F%2Fwww.webofknowledge.com%3FDestParams%3DUT%253DWOS%25253A000395775700001%2526customersID%253DTSMetrics%2526smartRedirect%253Dyes%2526action%253Dretrieve%2526mode%253DFullRecord%2526product%253DCEL%26SrcAuth%3DTSMetrics%26SrcApp%3DTSM_TEST%26DestApp%3DCEL%26e%3D3beeY%252BrYz%252FE7J6LLsmb%252FfodLK0gMxd92XJWKQifo6cGaInGd5DKLNg%253D%253D&SrcApp=TSM_TEST&SrcAuth=TSMetrics&SID=7Ap98kfpZYX2V1RU7Ga&customersID=TSMetrics&smartRedirect=yes&mode=FullRecord&IsProductCode=Yes&Init=Yes&action=retrieve&UT=WOS%3A000395775700001); Frontspiece of Chemistry – A European Journal, [doi: 10.1002/chem.201781461](http://onlinelibrary.wiley.com/doi/10.1002/chem.201781461/abstract)
+(• Featured as a [Web of Science's top 1% Chemistry highly cited papers for Nov/Dec 2017](http://apps.webofknowledge.com/InboundService.do?product=WOS&Func=Frame&DestFail=http%3A%2F%2Fwww.webofknowledge.com%3FDestParams%3DUT%253DWOS%25253A000395775700001%2526customersID%253DTSMetrics%2526smartRedirect%253Dyes%2526action%253Dretrieve%2526mode%253DFullRecord%2526product%253DCEL%26SrcAuth%3DTSMetrics%26SrcApp%3DTSM_TEST%26DestApp%3DCEL%26e%3D3beeY%252BrYz%252FE7J6LLsmb%252FfodLK0gMxd92XJWKQifo6cGaInGd5DKLNg%253D%253D&SrcApp=TSM_TEST&SrcAuth=TSMetrics&SID=7Ap98kfpZYX2V1RU7Ga&customersID=TSMetrics&smartRedirect=yes&mode=FullRecord&IsProductCode=Yes&Init=Yes&action=retrieve&UT=WOS%3A000395775700001); Frontspiece of Chemistry – A European Journal, [doi: 10.1002/chem.201781461](http://onlinelibrary.wiley.com/doi/10.1002/chem.201781461/abstract)
 
 
 ___
@@ -249,7 +249,7 @@ ___
 
 ![alt text](https://gabegomes.github.io/images/pub8b.png "pub8b.png")
 
-*This paper was featured on [sciencing.net](http://www.sciencing.net/paperDetails?eid=0,35025)*
+*• This paper was featured on [sciencing.net](http://www.sciencing.net/paperDetails?eid=0,35025)*
 
 
 ___
@@ -303,7 +303,7 @@ ___
 
 ![alt text](https://gabegomes.github.io/images/pub1.png "pub1.png")
 
-*This paper was featured on [amphoteros.com](https://amphoteros.com/2016/06/29/the-good-old-hybridization/)*
+*• This paper was featured on [amphoteros.com](https://amphoteros.com/2016/06/29/the-good-old-hybridization/)*
 
 
 ___
