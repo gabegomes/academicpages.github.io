@@ -10,7 +10,8 @@ redirect_from:
 ## Education and Training
   
 **University of Toronto** (UofT), Department of Chemistry & Department of Computer Science, Toronto, ON, Canada (2019 – present)
-  +	Postdoctoral Research Fellow, Advisor: Professor [Alán Aspuru-Guzik](https://matter.toronto.edu)    	      				   
+  +	Banting Postdoctoral Fellow (starting 2020)				   
+    +	Postdoctoral Research Fellow, Advisor: Professor [Alán Aspuru-Guzik](https://matter.toronto.edu)    	      				   
 
 **Florida State University** (FSU), Department of Chemistry and Biochemistry, 
 Tallahassee, FL, USA (2014 – 2018)
@@ -23,7 +24,7 @@ Tallahassee, FL, USA (2014 – 2018)
 ## About
 
 <p style='text-align: justify;'>
-In 2019, Gabe joined the University of Toronto as a Postdoctoral Research Fellow in the <a href="https://matter.toronto.edu">Matter Lab</a>, led by <a href="https://www.matter.toronto.edu/basic-content-page/about-alan">Professor Alán Aspuru-Guzik</a>. His research rests at the interface between machine learning and organic chemistry, where he aims to develop new platforms for autonomous reaction discovery, with emphasis on catalysis. His ultimate goal is to establish an independent research program focused on the development of new chemical reactions, pioneering research and training the next-generation of chemists.
+In 2019, Gabe joined the University of Toronto as a Postdoctoral Research Fellow in the <a href="https://matter.toronto.edu">Matter Lab</a>, led by <a href="https://www.matter.toronto.edu/basic-content-page/about-alan">Professor Alán Aspuru-Guzik</a>. His research rests at the interface between machine learning and organic chemistry, where he aims to develop new platforms for autonomous reaction discovery, with emphasis on catalysis. His ultimate goal is to establish an independent research program focused on the development of new chemical reactions, pioneering research and training the next-generation of chemists. In 2020, Gabe received a Banting Postdoctoral Fellowship to pursue his work "Designing Catlaysts with Artificial Intelligence."
 <br />
 
 Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, Brazil under supervision of Professor Pierre Mothè Esteves, in 2013. His research at that university was focused on theoretical studies of electrophilic aromatic nitration via single electron transfer and a final project on the development of methane clathrates inhibitors. He also spent a year at the University of Lisbon, Portugal in an academic exchange researching reduced graphene oxides, with Professor Maria José Lourenço.
@@ -41,6 +42,7 @@ For his work at FSU, in 2018, Gabe was: awarded the FSU's Graduate Student Resea
 
 ## Awards, Honors, Grants & Media
 
++ NSERC Banting Postdoctoral Fellowship ([2020](https://banting.fellowships-bourses.gc.ca/en/2019-2020-eng.html))
 + Featured on Florida State University's College of Arts & Sciences Spectrum Magazine with the article _“Scientific Sensation”_ ([2019](https://artsandsciences.fsu.edu/spectrum-magazine/alumni-alight/spectrum-summer-2019-scientific-sensation))
 + CAS SciFinder Future Leaders ([2018](https://www.cas.org/about/futureleaders))
 + ACS COMP Chemical Computing Group Excellence Award ([2018](http://www.acscomp.org/awards/chemical-computing-group-excellence-award))
