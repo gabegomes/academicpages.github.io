@@ -43,6 +43,7 @@ ___
 
 • Preprint on _ChemRxiv_: [*link to ChemRxiv*](https://chemrxiv.org/articles/Twofold_-Extension_of_Polyarenes_via_Double_and_Triple_Radical_Alkyne_peri-Annulations_Radical_Cascades_Converging_on_the_Same_Aromatic_Core/11860245)
 
+(Highlighted on: • <i>Synfacts</i> <b>2020</b>, <i>16</i>, 0794 “Peri-Peri: Spicy Radical Double Annulations”, [doi: 10.1055/s-0040-1707043](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0040-1707043.pdf))
 ___
 
 
