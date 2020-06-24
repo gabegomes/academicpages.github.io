@@ -64,3 +64,8 @@ For his work at FSU, in 2018, Gabe was: awarded the FSU's Graduate Student Resea
 + Science without Borders Program and Scholarship @ UL (2012–2013)
 + Gas Exploitation Oral Section winner: 6th Brazilian Meeting of R&D in Oil and Gas, as PRH01-ANP Scholar (2011)
 + Honorable Mention: XXXII Jornada Giulio Massarani de Iniciação Científica, as a CNPq Scholar (2010)
+
+
+
+<div style="height: 400px; width: 400px; position: relative;" class='viewer_3Dmoljs' data-pdb='1YCR' data-backgroundcolor='0xffffff' 
+        data-select1='chain:A' data-style1='cartoon:color=spectrum' data-surface1='opacity:.7;color:white' data-select2='chain:B' data-style2='stick'></div>
