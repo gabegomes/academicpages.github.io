@@ -74,24 +74,24 @@ social:
 # Google Analytics
 plugins:
   - jekyll-seo-tag
-#google_analytics: UA-124609669-1
+google_analytics: UA-124609669-1
 google_analytics: UA-124609669-2
 
 #analytics:
   #provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  #google:
-   # tracking_id          : UA-124609669-1
+  google:
+   tracking_id          : UA-124609669-1
 #analytics:
   #provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  #google:
-   # tracking_id          : UA-124609669-2
+  google:
+   tracking_id          : UA-124609669-2
 
 
 # Site Author
 author:
   name             : "Gabriel dos Passos Gomes"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
+  bio              : "Banting Postdoctoral Fellow"
   location         : "Toronto, ON, Canada"
   employer         : "University of Toronto"
   googlescholar    : "https://scholar.google.com/citations?user=LACTdhMAAAAJ&hl=en"
@@ -258,9 +258,9 @@ sass:
 
 #gem "github-pages", group: :jekyll_plugins
 
-remote_theme: "mmistakes/minimal-mistakes"
-#theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "minimal"
+# remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "dark"
 
 # Outputting
 permalink: /:categories/:title/
