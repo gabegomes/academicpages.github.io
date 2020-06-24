@@ -258,15 +258,15 @@ sass:
 
 #gem "github-pages", group: :jekyll_plugins
 
-# remote_theme: "mmistakes/minimal-mistakes"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark"
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
