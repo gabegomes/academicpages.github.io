@@ -19,6 +19,7 @@ source "https://rubygems.org"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "github-pages", group: :jekyll_plugins
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
 # If you have any plugins, put them here!
