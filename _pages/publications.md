@@ -9,10 +9,6 @@ ___
 
 (36) **G. P. Gomes**, G. Xu, X. Zhu, L.-M. Chamoreau, O. Bistri-Aslanoff, S. Roland, I. V. Alabugin, M. Sollogoub  “Mapping C-H•••M interactions in confined spaces: (α-ICyDᴹᵉ)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions”, Preprint on _ChemRxiV_, **2020**, _Version 1_, [doi: 10.26434/chemrxiv.12167916](https://chemrxiv.org/articles/Mapping_the_coordination_space_for_C_H__M_interactions_in_confined_spaces_-ICyD_Au_Ag_Cu_complexes_reveal_contra-electrostatic_H-bonds_masquerading_as_anagostic_interactions/12167916)
 
- <script src="http://3Dmol.csb.pitt.edu/build/3Dmol-min.js" async></script>     
-   <div style="height: 400px; width: 400px; position: relative;" class='viewer_3Dmoljs' data-pdb='2POR' data-backgroundcolor='0xffffff' data-style='stick'></div>       
-
-
 ![alt text](https://gabegomes.github.io/images/pub36.png "pub36.png")
 
 • _GitHub_ page: [*github.com/gabegomes/anagostic_contra-electrostatic_H-bonds*](https://github.com/gabegomes/anagostic_contra-electrostatic_H-bonds)
