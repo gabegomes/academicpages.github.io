@@ -256,11 +256,11 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
 
-# remote_theme: "mmistakes/minimal-mistakes"
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "dark"
+remote_theme: "mmistakes/minimal-mistakes"
+# theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin    : "dark"
 
 # Outputting
 permalink: /:categories/:title/
