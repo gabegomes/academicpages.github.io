@@ -5,7 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-***Preprints***
+***Preprints & Just Accepted***
+
+(37) L. R. Mills, J. J. Monteith, **G. P. Gomes**, A. Aspuru-Guzik, S. A. L. Rousseaux “The cyclopropane ring as a reporter of radical leaving-group reactivity for Ni-catalyzed C(sp3)–O arylation”, _J. Am. Chem. Soc._, **2020**, [doi: 110.1021/jacs.0c06904](https://pubs.acs.org/doi/10.1021/jacs.0c06904)
+
+![alt text](https://gabegomes.github.io/images/pub37.png "pub37.png")
+
+___
+
 
 (36) **G. P. Gomes**, G. Xu, X. Zhu, L.-M. Chamoreau, O. Bistri-Aslanoff, S. Roland, I. V. Alabugin, M. Sollogoub  “Mapping C-H•••M interactions in confined spaces: (α-ICyDᴹᵉ)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions”, Preprint on _ChemRxiV_, **2020**, _Version 1_, [doi: 10.26434/chemrxiv.12167916](https://chemrxiv.org/articles/Mapping_the_coordination_space_for_C_H__M_interactions_in_confined_spaces_-ICyD_Au_Ag_Cu_complexes_reveal_contra-electrostatic_H-bonds_masquerading_as_anagostic_interactions/12167916)
 
@@ -14,7 +21,6 @@ ___
 • _GitHub_ page: [*github.com/gabegomes/anagostic_contra-electrostatic_H-bonds*](https://github.com/gabegomes/anagostic_contra-electrostatic_H-bonds)
 
 ___
-
 
 ***Published***
 
