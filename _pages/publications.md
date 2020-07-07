@@ -7,6 +7,13 @@ author_profile: true
 ___
 ***Preprints & Just Accepted***
 
+(38) S. Kaldas, C.-H. Tien, **G. P. Gomes**, S. Meyer, M. Sirvinskas, H. Foy, T. Dudding, A. K. Yudin “DABN Borazabicycles: Formation from MIDA Boronates and Their Synthetic Utility”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12605642.v1](https://chemrxiv.org/articles/preprint/DABN_Borazabicycles_Formation_from_MIDA_Boronates_and_Synthetic_Utility/12605642)
+
+![alt text](https://gabegomes.github.io/images/pub38.png "pub38.png")
+
+___
+
+
 (37) L. R. Mills, J. J. Monteith, **G. P. Gomes**, A. Aspuru-Guzik, S. A. L. Rousseaux “The cyclopropane ring as a reporter of radical leaving-group reactivity for Ni-catalyzed C(sp3)–O arylation”, _J. Am. Chem. Soc._, **2020**, [doi: 110.1021/jacs.0c06904](https://pubs.acs.org/doi/10.1021/jacs.0c06904)
 
 ![alt text](https://gabegomes.github.io/images/pub37.png "pub37.png")
