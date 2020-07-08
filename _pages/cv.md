@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://gabegomes.github.io/files/GGomes_CV_August_2019_website.pdf" type="application/pdf" />
+<embed src="https://gabegomes.github.io/files/GGomes_CV_July_2020_website.pdf" type="application/pdf" />
 
-Full CV can be downloaded from [<u>here</u>](https://gabegomes.github.io/files/GGomes_CV_August_2019_website.pdf) as well.
+Full CV can be downloaded from [<u>here</u>](https://gabegomes.github.io/files/GGomes_CV_July_2020_website.pdf) as well.
