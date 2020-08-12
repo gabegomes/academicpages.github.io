@@ -7,6 +7,13 @@ author_profile: true
 ___
 ***Preprints***
 
+(39) **G. P. Gomes**<i><sup>‡</sup>, R. Pollice<i><sup>‡</sup>, A. Aspuru-Guzik “Navigating through the Maze of Homogeneous Catalyst Design with Machine Learning”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12786722]()
+
+![alt text](https://gabegomes.github.io/images/pub39.png "pub39.png")
+
+___
+
+
 (38) S. Kaldas, C.-H. Tien, **G. P. Gomes**, S. Meyer, M. Sirvinskas, H. Foy, T. Dudding, A. K. Yudin “DABN Borazabicycles: Formation from MIDA Boronates and Their Synthetic Utility”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12605642.v1](https://chemrxiv.org/articles/preprint/DABN_Borazabicycles_Formation_from_MIDA_Boronates_and_Synthetic_Utility/12605642)
 
 ![alt text](https://gabegomes.github.io/images/pub38.png "pub38.png")
