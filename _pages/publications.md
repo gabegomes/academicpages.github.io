@@ -7,7 +7,7 @@ author_profile: true
 ___
 ***Preprints***
 
-(39) **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Navigating through the Maze of Homogeneous Catalyst Design with Machine Learning”, **2020**
+(39) **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Navigating through the Maze of Homogeneous Catalyst Design with Machine Learning”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12786722.v1](https://chemrxiv.org/articles/preprint/Navigating_through_the_Maze_of_Homogeneous_Catalyst_Design_with_Machine_Learning/12786722/1)
 
 ![alt text](https://gabegomes.github.io/images/pub39.png "pub39.png")
 
