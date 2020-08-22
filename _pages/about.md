@@ -25,7 +25,7 @@ Tallahassee, FL, USA (2014 – 2018)
 
 <p style='text-align: justify;'>
 <br>In 2019, Gabe joined the University of Toronto as a Postdoctoral Research Fellow in the <a href="https://matter.toronto.edu">Matter Lab</a>, led by <a href="https://www.matter.toronto.edu/basic-content-page/about-alan">Professor Alán Aspuru-Guzik</a>. His research rests at the interface between machine learning and organic chemistry, where he aims to develop new platforms for autonomous reaction discovery, with emphasis on catalysis. In 2020, Gabe received a Banting Postdoctoral Fellowship to pursue his work titled "<b><i>Designing Catalysts with Artificial Intelligence</i></b>." His ultimate goal is to establish an independent research program focused on the development of new chemical reactions, pioneering research and training the next-generation of chemists. 
-</br>
+<br/>
 
 <br>Under the guidance of Professor Igor V. Alabugin, Gabe earned his PhD in Fall 2018 from Florida State University, where he also was awarded the LASER Fellowship in 2014 and the 2016-2017 IBM PhD Scholarship. At FSU, his research was centered on the relationship between molecular structure and reactivity, focusing on the development and applications of stereoelectronic effects. His dissertation was entitled "Controlling Chemical Reactivity with Stereoelectronic Effects." 
 For his work at FSU, in 2018, Gabe was: awarded the FSU's Graduate Student Research and Creativity Award for his work in Computational Chemistry; awarded the ACS COMP Chemical Computing Group Excellence Award for his work on the mechanism of the Gold-Catalyzed Bergman Cyclization; selected for the CAS SciFinder Future Leaders Program; selected for the ACS ORGN Graduate Research Symposium.
