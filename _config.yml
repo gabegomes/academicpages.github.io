@@ -8,9 +8,9 @@
 # Site Settings
 
 locale                   : "en-CA"
-title                    : "Gabe Gomes"
+title                    : "Gabriel dos Passos Gomes, PhD"
 title_separator          : "-"
-name                     : &name "Gabriel dos Passos Gomes"
+name                     : &name "Gabe Gomes"
 description              : &description "personal description"
 url                      : https://gabegomes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
