@@ -29,10 +29,10 @@ Tallahassee, FL, USA (2014 – 2018)
 
 <br>Under the guidance of Professor Igor V. Alabugin, Gabe earned his PhD in Fall 2018 from Florida State University, where he also was awarded the LASER Fellowship in 2014 and the 2016-2017 IBM PhD Scholarship. At FSU, his research was centered on the relationship between molecular structure and reactivity, focusing on the development and applications of stereoelectronic effects. His dissertation was entitled "Controlling Chemical Reactivity with Stereoelectronic Effects." 
 For his work at FSU, in 2018, Gabe was: awarded the FSU's Graduate Student Research and Creativity Award for his work in Computational Chemistry; awarded the ACS COMP Chemical Computing Group Excellence Award for his work on the mechanism of the Gold-Catalyzed Bergman Cyclization; selected for the CAS SciFinder Future Leaders Program; selected for the ACS ORGN Graduate Research Symposium.
-</br>
+<br/>
 
 <br>Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, Brazil under supervision of Professor Pierre Mothè Esteves, in 2013. His research at that university was focused on theoretical studies of electrophilic aromatic nitration via single electron transfer and a final project on the development of methane clathrates inhibitors. He also spent a year at the University of Lisbon, Portugal in an academic exchange researching reduced graphene oxides, with Professor Maria José Lourenço.
-</br>
+<br/>
 
 </p>
 
