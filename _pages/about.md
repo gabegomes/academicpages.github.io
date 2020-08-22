@@ -32,6 +32,7 @@ For his work at FSU, in 2018, Gabe was: awarded the FSU's Graduate Student Resea
 <br/>
 
 <br>Gabe received his B.Sc. in Chemistry from Federal University of Rio de Janeiro, Brazil under supervision of Professor Pierre Mothè Esteves, in 2013. His research at that university was focused on theoretical studies of electrophilic aromatic nitration via single electron transfer and a final project on the development of methane clathrates inhibitors. He also spent a year at the University of Lisbon, Portugal in an academic exchange researching reduced graphene oxides, with Professor Maria José Lourenço.
+Outside of the lab, Gabe is a total music nerd, always looking for new tonalities. His favorite album of all times is "In Rainbows," by Radiohead.
 <br/>
 
 </p>
