@@ -8,7 +8,7 @@
 # Site Settings
 
 locale                   : "en-CA"
-title                    : "Gabriel dos Passos Gomes, PhD"
+title                    : "Gabe Gomes"
 title_separator          : "-"
 name                     : &name "Gabriel dos Passos Gomes"
 description              : &description "personal description"
@@ -89,7 +89,7 @@ google_analytics: UA-124609669-2
 
 # Site Author
 author:
-  name             : "Gabe Gomes"
+  name             : "Gabriel dos Passos Gomes, PhD"
   avatar           : "profile.png"
   bio              : "Banting Postdoctoral Fellow"
   location         : "Toronto, ON, Canada"
