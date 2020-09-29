@@ -7,6 +7,11 @@ author_profile: true
 ___
 ***Preprints***
 
+(40) C. Lavigne, **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Automatic discovery of chemical reactions using imposed activation”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13008500.v1](https://chemrxiv.org/articles/preprint/Automatic_discovery_of_chemical_reactions_using_imposed_activation/13008500)
+
+___
+
+
 (39) **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Navigating through the Maze of Homogeneous Catalyst Design with Machine Learning”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12786722.v1](https://chemrxiv.org/articles/preprint/Navigating_through_the_Maze_of_Homogeneous_Catalyst_Design_with_Machine_Learning/12786722/1)
 
 ![alt text](https://gabegomes.github.io/images/pub39.png "pub39.png")
