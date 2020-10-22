@@ -7,6 +7,11 @@ author_profile: true
 ___
 ***Preprints***
 
+(41) H. S. Auhim, B. L. Grigorenko, T. Harris, I. V. Polyakov, **G. P. Gomes**, I. V. Alabugin, P. J. Rizkallah, A. V. Nemukhin, D. D. Jones “Stalling chromophore maturation of the fluorescent protein Venus reveals the molecular basis of the final oxidation step”, Preprint on _bioRxiv_, **2020**, [doi.org/10.1101/2020.10.13.337386](https://www.biorxiv.org/content/10.1101/2020.10.13.337386v1)
+
+___
+
+
 (40) C. Lavigne, **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Automatic discovery of chemical reactions using imposed activation”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13008500.v1](https://chemrxiv.org/articles/preprint/Automatic_discovery_of_chemical_reactions_using_imposed_activation/13008500)
 
 ___
