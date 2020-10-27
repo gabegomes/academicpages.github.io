@@ -39,6 +39,7 @@ Outside of the lab, Gabe is a total music nerd, always looking for new tonalitie
 
 ## Awards, Honors, Grants & Media
 
++ Featured on the _“Next Great Impossible”_ series by Merck/Milipore-Sigma ([2020](https://www.sigmaaldrich.com/portfolio/next_great_impossible.html))
 + NSERC Banting Postdoctoral Fellowship ([2020](https://banting.fellowships-bourses.gc.ca/en/2019-2020-eng.html))
 + Featured on Florida State University's College of Arts & Sciences Spectrum Magazine with the article _“Scientific Sensation”_ ([2019](https://artsandsciences.fsu.edu/spectrum-magazine/alumni-alight/spectrum-summer-2019-scientific-sensation))
 + CAS SciFinder Future Leaders ([2018](https://www.cas.org/about/futureleaders))
