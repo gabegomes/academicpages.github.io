@@ -7,6 +7,11 @@ author_profile: true
 ___
 ***Preprints***
 
+(42) R. Pollice, P. Friederich, C. Lavigne, **G. P. Gomes**, A. Aspuru-Guzik “Organic Molecules with Inverted Gaps between First Excited Singlet and Triplet States and Appreciable Oscillator Strengths”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13087319](https://chemrxiv.org/articles/preprint/Organic_Molecules_with_Inverted_Gaps_between_First_Excited_Singlet_and_Triplet_States_and_Appreciable_Fluorescence_Rates/13087319)
+
+___
+
+
 (41) H. S. Auhim, B. L. Grigorenko, T. Harris, I. V. Polyakov, **G. P. Gomes**, I. V. Alabugin, P. J. Rizkallah, A. V. Nemukhin, D. D. Jones “Stalling chromophore maturation of the fluorescent protein Venus reveals the molecular basis of the final oxidation step”, Preprint on _bioRxiv_, **2020**, [doi.org/10.1101/2020.10.13.337386](https://www.biorxiv.org/content/10.1101/2020.10.13.337386v1)
 
 ___
