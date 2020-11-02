@@ -7,7 +7,16 @@ author_profile: true
 ___
 ***Preprints***
 
+(43) M. Christensen, L. Yunker, F. Adedeji, F. Häse, L. Roch, T. Gensch, **G. P. Gomes**, T. Zepel, M. S. Sigman, A. Aspuru-Guzik, J. Hein “Data-science driven autonomous process optimization”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13146404](https://chemrxiv.org/articles/preprint/Data-science_driven_autonomous_process_optimization/13146404)
+
+• _A collaboration with Merck, UBC and U of Utah._
+
+___
+
+
 (42) R. Pollice, P. Friederich, C. Lavigne, **G. P. Gomes**, A. Aspuru-Guzik “Organic Molecules with Inverted Gaps between First Excited Singlet and Triplet States and Appreciable Oscillator Strengths”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13087319](https://chemrxiv.org/articles/preprint/Organic_Molecules_with_Inverted_Gaps_between_First_Excited_Singlet_and_Triplet_States_and_Appreciable_Fluorescence_Rates/13087319)
+
+• _Patent Applied._
 
 ___
 
