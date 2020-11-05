@@ -9,7 +9,7 @@ ___
 
 (43) M. Christensen, L. Yunker, F. Adedeji, F. Häse, L. Roch, T. Gensch, **G. P. Gomes**, T. Zepel, M. S. Sigman, A. Aspuru-Guzik, J. Hein “Data-science driven autonomous process optimization”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13146404](https://chemrxiv.org/articles/preprint/Data-science_driven_autonomous_process_optimization/13146404)
 
-• _A collaboration with Merck, UBC and U of Utah._
+• _A collaboration with Merck, University of British Columbia (Hein group), and University of Utah (Sigman group)._
 
 ___
 
