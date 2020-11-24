@@ -9,7 +9,7 @@ ___
 
 (44) R. Pollice, **G. P. Gomes**, M. Aldeghi, R. J. Hickman, M. Krenn, C. Lavigne, M. L. D’Addario, A. Nigam, C.-T. Ser, Z. Yao, A. Aspuru-Guzik “Data-driven Strategies for Materials Design”, _submitted_, **2020**
 
-![alt text](https://gabegomes.github.io/images/pub44.png "pub44.png")
+![alt text](https://gabegomes.github.io/images/pub44_pre.png "pub44_pre.png")
 
 ___
 
