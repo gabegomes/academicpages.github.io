@@ -21,6 +21,7 @@ redirect_from:
 + Autonomous Organic Synthesis
 
 **My November 2020 talk 'Machine Learning Dihydrogen Activation in the Chemical Space Surrounding Vaskas Complex'**
+**[<u>link</u>](https://www.dropbox.com/s/pbf3y27krqxkzbd/Machine%20Learning%20Dihydrogen%20Activation%20in%20the%20Chemical%20Space%20Surrounding%20Vaskas%20Complex%20by%20Gabe%20Gomes.mp4?raw=1)** 
 
 <embed src="https://www.dropbox.com/s/pbf3y27krqxkzbd/Machine%20Learning%20Dihydrogen%20Activation%20in%20the%20Chemical%20Space%20Surrounding%20Vaskas%20Complex%20by%20Gabe%20Gomes.mp4?raw=1" type="video/mp4" />
 
