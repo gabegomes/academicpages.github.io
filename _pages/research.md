@@ -20,6 +20,10 @@ redirect_from:
 + Cyclizations & Cascade Reactions
 + Autonomous Organic Synthesis
 
+**My November 2020 talk 'Machine Learning Dihydrogen Activation in the Chemical Space Surrounding Vaskas Complex'**
+
+<embed src="https://www.dropbox.com/s/pbf3y27krqxkzbd/Machine%20Learning%20Dihydrogen%20Activation%20in%20the%20Chemical%20Space%20Surrounding%20Vaskas%20Complex%20by%20Gabe%20Gomes.mp4" type="application/mp4" />
+
 **Abstract for the July 2018 version of the 'Taming Oxygen-Rich Systems with Stereoelectronic Effects' talk**
 **[<u>link</u>](https://gabegomes.github.io/files/Abstract_talk_UFRJ_Gabe_Gomes_July_2018.pdf)** 
 
