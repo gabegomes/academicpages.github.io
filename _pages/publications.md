@@ -5,7 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-***Preprints***
+***Preprints & Submitted Manuscripts***
+
+(44) R. Pollice, **G. P. Gomes**, M. Aldeghi, R. J. Hickman, M. Krenn, C. Lavigne, M. L. D’Addario, A. Nigam, C.-T. Ser, Z. Yao, A. Aspuru-Guzik “Data-driven Strategies for Materials Design”, _submitted_, **2020**
+
+![alt text](https://gabegomes.github.io/images/pub44.png "pub44.png")
+
+___
+
 
 (43) M. Christensen, L. Yunker, F. Adedeji, F. Häse, L. Roch, T. Gensch, **G. P. Gomes**, T. Zepel, M. S. Sigman, A. Aspuru-Guzik, J. Hein “Data-science driven autonomous process optimization”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13146404](https://chemrxiv.org/articles/preprint/Data-science_driven_autonomous_process_optimization/13146404)
 
