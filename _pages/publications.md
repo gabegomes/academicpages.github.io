@@ -18,6 +18,8 @@ ___
 
 • _A collaboration with Merck, University of British Columbia (Hein group), and University of Utah (Sigman group)._
 
+![alt text](https://gabegomes.github.io/images/pub43_pre.png "pub43_pre.png")
+
 ___
 
 
