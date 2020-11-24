@@ -7,14 +7,14 @@ author_profile: true
 ___
 ***Preprints & Submitted Manuscripts***
 
-(44) R. Pollice, **G. P. Gomes**, M. Aldeghi, R. J. Hickman, M. Krenn, C. Lavigne, M. L. D’Addario, A. Nigam, C.-T. Ser, Z. Yao, A. Aspuru-Guzik “Data-driven Strategies for Materials Design”, _submitted_, **2020**
+(45) R. Pollice, **G. P. Gomes**, M. Aldeghi, R. J. Hickman, M. Krenn, C. Lavigne, M. L. D’Addario, A. Nigam, C.-T. Ser, Z. Yao, A. Aspuru-Guzik “Data-driven Strategies for Materials Design”, _submitted_, **2020**
 
 ![alt text](https://gabegomes.github.io/images/pub44_pre.png "pub44_pre.png")
 
 ___
 
 
-(43) M. Christensen, L. Yunker, F. Adedeji, F. Häse, L. Roch, T. Gensch, **G. P. Gomes**, T. Zepel, M. S. Sigman, A. Aspuru-Guzik, J. Hein “Data-science driven autonomous process optimization”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13146404](https://chemrxiv.org/articles/preprint/Data-science_driven_autonomous_process_optimization/13146404)
+(44) M. Christensen, L. Yunker, F. Adedeji, F. Häse, L. Roch, T. Gensch, **G. P. Gomes**, T. Zepel, M. S. Sigman, A. Aspuru-Guzik, J. Hein “Data-science driven autonomous process optimization”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13146404](https://chemrxiv.org/articles/preprint/Data-science_driven_autonomous_process_optimization/13146404)
 
 • _A collaboration with Merck, University of British Columbia (Hein group), and University of Utah (Sigman group)._
 
@@ -23,44 +23,53 @@ ___
 ___
 
 
-(42) R. Pollice, P. Friederich, C. Lavigne, **G. P. Gomes**, A. Aspuru-Guzik “Organic Molecules with Inverted Gaps between First Excited Singlet and Triplet States and Appreciable Oscillator Strengths”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13087319](https://chemrxiv.org/articles/preprint/Organic_Molecules_with_Inverted_Gaps_between_First_Excited_Singlet_and_Triplet_States_and_Appreciable_Fluorescence_Rates/13087319)
+(43) R. Pollice, P. Friederich, C. Lavigne, **G. P. Gomes**, A. Aspuru-Guzik “Organic Molecules with Inverted Gaps between First Excited Singlet and Triplet States and Appreciable Oscillator Strengths”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13087319](https://chemrxiv.org/articles/preprint/Organic_Molecules_with_Inverted_Gaps_between_First_Excited_Singlet_and_Triplet_States_and_Appreciable_Fluorescence_Rates/13087319)
 
 • _Patent Applied._
 
 ___
 
 
-(41) H. S. Auhim, B. L. Grigorenko, T. Harris, I. V. Polyakov, **G. P. Gomes**, I. V. Alabugin, P. J. Rizkallah, A. V. Nemukhin, D. D. Jones “Stalling chromophore maturation of the fluorescent protein Venus reveals the molecular basis of the final oxidation step”, Preprint on _bioRxiv_, **2020**, [doi.org/10.1101/2020.10.13.337386](https://www.biorxiv.org/content/10.1101/2020.10.13.337386v1)
+(42) H. S. Auhim, B. L. Grigorenko, T. Harris, I. V. Polyakov, **G. P. Gomes**, I. V. Alabugin, P. J. Rizkallah, A. V. Nemukhin, D. D. Jones “Stalling chromophore maturation of the fluorescent protein Venus reveals the molecular basis of the final oxidation step”, Preprint on _bioRxiv_, **2020**, [doi.org/10.1101/2020.10.13.337386](https://www.biorxiv.org/content/10.1101/2020.10.13.337386v1)
 
 ___
 
 
-(40) C. Lavigne, **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Automatic discovery of chemical reactions using imposed activation”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13008500.v1](https://chemrxiv.org/articles/preprint/Automatic_discovery_of_chemical_reactions_using_imposed_activation/13008500)
+(41) C. Lavigne, **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Automatic discovery of chemical reactions using imposed activation”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.13008500.v1](https://chemrxiv.org/articles/preprint/Automatic_discovery_of_chemical_reactions_using_imposed_activation/13008500)
 
 ___
 
 
-(39) **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Navigating through the Maze of Homogeneous Catalyst Design with Machine Learning”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12786722.v1](https://chemrxiv.org/articles/preprint/Navigating_through_the_Maze_of_Homogeneous_Catalyst_Design_with_Machine_Learning/12786722/1)
+(40) **G. P. Gomes**<sup>‡</sup>, R. Pollice<sup>‡</sup>, A. Aspuru-Guzik “Navigating through the Maze of Homogeneous Catalyst Design with Machine Learning”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12786722.v1](https://chemrxiv.org/articles/preprint/Navigating_through_the_Maze_of_Homogeneous_Catalyst_Design_with_Machine_Learning/12786722/1)
 
 ![alt text](https://gabegomes.github.io/images/pub39.png "pub39.png")
 
 ___
 
 
-(38) S. Kaldas, C.-H. Tien, **G. P. Gomes**, S. Meyer, M. Sirvinskas, H. Foy, T. Dudding, A. K. Yudin “DABN Borazabicycles: Formation from MIDA Boronates and Their Synthetic Utility”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12605642.v1](https://chemrxiv.org/articles/preprint/DABN_Borazabicycles_Formation_from_MIDA_Boronates_and_Synthetic_Utility/12605642)
+(39) S. Kaldas, C.-H. Tien, **G. P. Gomes**, S. Meyer, M. Sirvinskas, H. Foy, T. Dudding, A. K. Yudin “DABN Borazabicycles: Formation from MIDA Boronates and Their Synthetic Utility”, Preprint on _ChemRxiV_, **2020**, [doi.org/10.26434/chemrxiv.12605642.v1](https://chemrxiv.org/articles/preprint/DABN_Borazabicycles_Formation_from_MIDA_Boronates_and_Synthetic_Utility/12605642)
 
 ![alt text](https://gabegomes.github.io/images/pub38.png "pub38.png")
 
 ___
 
 
-(37) **G. P. Gomes**, G. Xu, X. Zhu, L.-M. Chamoreau, O. Bistri-Aslanoff, S. Roland, I. V. Alabugin, M. Sollogoub  “Mapping C-H•••M interactions in confined spaces: (α-ICyDᴹᵉ)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions”, Preprint on _ChemRxiV_, **2020**, _Version 1_, [doi: 10.26434/chemrxiv.12167916](https://chemrxiv.org/articles/Mapping_the_coordination_space_for_C_H__M_interactions_in_confined_spaces_-ICyD_Au_Ag_Cu_complexes_reveal_contra-electrostatic_H-bonds_masquerading_as_anagostic_interactions/12167916)
+(38) **G. P. Gomes**, G. Xu, X. Zhu, L.-M. Chamoreau, O. Bistri-Aslanoff, S. Roland, I. V. Alabugin, M. Sollogoub  “Mapping C-H•••M interactions in confined spaces: (α-ICyDᴹᵉ)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions”, Preprint on _ChemRxiV_, **2020**, _Version 1_, [doi: 10.26434/chemrxiv.12167916](https://chemrxiv.org/articles/Mapping_the_coordination_space_for_C_H__M_interactions_in_confined_spaces_-ICyD_Au_Ag_Cu_complexes_reveal_contra-electrostatic_H-bonds_masquerading_as_anagostic_interactions/12167916)
 
 ![alt text](https://gabegomes.github.io/images/pub36.png "pub36.png")
 
 • _GitHub_ page: [*github.com/gabegomes/anagostic_contra-electrostatic_H-bonds*](https://github.com/gabegomes/anagostic_contra-electrostatic_H-bonds)
 
 ___
+
+***In Press***
+
+(37) S. C. Davidson, **G. P. Gomes**, L. R. Kuhn, I. V. Alabugin, A. R. Kennedy, N. C. O. Tomkinson  “Organocatalytic sulfoxidation”, _Tetrahedron_, **2020**, [doi: 10.1016/j.tet.2020.131784](https://doi.org/10.1016/j.tet.2020.131784)
+
+![alt text](https://gabegomes.github.io/images/pub45_tet.png "pub45_tet.png")
+
+___
+
 
 ***Published***
 
