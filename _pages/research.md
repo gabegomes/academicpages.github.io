@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-**An overview of my research projects**
+**An overview of my research projects (November 2020)**
 
-![alt text](https://gabegomes.github.io/images/projects_August_2019.png "projects_August_2019.png")
+![alt text](https://gabegomes.github.io/images/projects_November_2020.png "projects_November_2020.png")
 
 **Research interests**
 + Computational & Physical Organic Chemistry
