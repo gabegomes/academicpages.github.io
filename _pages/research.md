@@ -9,14 +9,15 @@ redirect_from:
 
 **An overview of my research projects (November 2020)**
 
-*Machine Learning*
+***Machine Learning***
 
 ![alt text](https://gabegomes.github.io/images/postdoc_projects_November_2020.png "postdoc_projects_November_2020.png")
 
 
-*Stereoelectronic Effects & Physical Organic Chemistry*
+***Stereoelectronic Effects & Physical Organic Chemistry***
 
 ![alt text](https://gabegomes.github.io/images/PhD_projects_November_2020.png "PhD_projects_November_2020.png")
+
 
 **Research interests**
 + Computational & Physical Organic Chemistry
