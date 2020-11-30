@@ -13,6 +13,8 @@ redirect_from:
 ![alt text](https://gabegomes.github.io/images/postdoc_projects_November_2020.png "postdoc_projects_November_2020.png")
 
 __
+
+
 *Stereoelectronic Effects & Physical Organic Chemistry*
 ![alt text](https://gabegomes.github.io/images/PhD_projects_November_2020.png "PhD_projects_November_2020.png")
 
