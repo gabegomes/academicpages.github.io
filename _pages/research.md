@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+## As of December 2020, this page is no longer maintained. Check out [gabegomes.com](https://gabegomes.com) for updates. Thanks!
+
+
 **An overview of my research projects (November 2020)**
 
   ***Machine Learning***
