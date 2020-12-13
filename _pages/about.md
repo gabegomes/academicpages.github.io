@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+## As of December 2020, this page is no longer maintained. Check out [gabegomes.com](https://gabegomes.com) for updates. Thanks!
+
 ## Education and Training
   
 **University of Toronto** (UofT), Department of Chemistry & Department of Computer Science, Toronto, ON, Canada (2019 – present)
