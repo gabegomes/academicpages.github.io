@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ___
+## As of December 2020, this page is no longer maintained. Check out [gabegomes.com](https://gabegomes.com) for updates. Thanks!
+
+
 ***Preprints & Submitted Manuscripts***
 
 (45) R. Pollice, **G. P. Gomes**, M. Aldeghi, R. J. Hickman, M. Krenn, C. Lavigne, M. L. D’Addario, A. Nigam, C.-T. Ser, Z. Yao, A. Aspuru-Guzik “Data-driven Strategies for Materials Design”, _submitted_, **2020**
